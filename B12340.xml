@@ -1,0 +1,1111 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dauids desire to go to church as it was published in two sermons in St. Maries in Oxford. The one the fift day of Nouember in the afternoone to the Vniversity 1609 the other on Christmas day following to the parishioners of that place. By Iohn Day Bachelour of Divinity, and one of the fellowes of Oriell Colledge.</title>
+            <author>Day, John, 1566-1628.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1612</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 136 KB of XML-encoded text transcribed from 60 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B12340</idno>
+            <idno type="STC">STC 6422</idno>
+            <idno type="STC">ESTC S115196</idno>
+            <idno type="EEBO-CITATION">99850415</idno>
+            <idno type="PROQUEST">99850415</idno>
+            <idno type="VID">177161</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B12340)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 177161)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 880:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Dauids desire to go to church as it was published in two sermons in St. Maries in Oxford. The one the fift day of Nouember in the afternoone to the Vniversity 1609 the other on Christmas day following to the parishioners of that place. By Iohn Day Bachelour of Divinity, and one of the fellowes of Oriell Colledge.</title>
+                  <author>Day, John, 1566-1628.</author>
+               </titleStmt>
+               <extent>[16], 104 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Ioseph Barnes,</publisher>
+                  <pubPlace>At Oxford :</pubPlace>
+                  <date>1612.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Running title reads: Davids desire to goe to church.</note>
+                  <note>Some print show-through.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-12</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2013-12</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:177161:1" rendition="simple:additions"/>
+            <pb facs="tcp:177161:1" rendition="simple:additions"/>
+            <p>DAVIDS DESIRE TO GO TO CHVRCH: as it was publiſhed in two Sermons in S<hi rend="sup">t</hi> 
+               <hi>Maries</hi> in Oxford.</p>
+            <p>The <hi>One</hi> the <hi>fift</hi> of <hi>November</hi> in the After<g ref="char:EOLhyphen"/>noone to the Vniverſity 1609. the <hi>Other</hi> on <hi>Chriſtmas Day</hi> follow<g ref="char:EOLhyphen"/>ing to the Pariſhioners of that place.</p>
+            <p>
+               <hi>By</hi> IOHN DAY Bachelour of Divinity, and one of the <hi>Fellowes</hi> of <hi>Oriell Colledge.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>Baſil in Pſal. 115.</hi>
+               </bibl> Audite vos Eccleſiam relinquen<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es, &amp; in domibus com<g ref="char:EOLhyphen"/>munibus diverſantes, miſerabilia pretioſi corporis fragment<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, quòd preces ac vota in medio Ieruſalem redderé oportet, hoc eſt Eccleſiae Dei.</q>
+            <p>
+               <hi>AT OXFORD,</hi> Printed by Ioſeph Barnes. 1612.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:177161:2"/>
+            <pb facs="tcp:177161:2"/>
+            <p>TO THE RIGHT WORSHIPFVL M<hi rend="sup">r</hi> D<hi rend="sup">r</hi> BLENCOW Pro<g ref="char:EOLhyphen"/>voſt of <hi>Oriell Col<g ref="char:EOLhyphen"/>ledge,</hi> the <hi>Fel<g ref="char:EOLhyphen"/>lowes,</hi> &amp; <hi>Stu<g ref="char:EOLhyphen"/>dents</hi> there:</p>
+            <p>WITH THE RIGHT <hi>Worſhipfull,</hi> the <hi>Worſhipfull,</hi> and the <hi>reſt</hi> of the Pa<g ref="char:EOLhyphen"/>riſh of <hi>S<hi rend="sup">t</hi> Maries,</hi>
+            </p>
+            <p>
+               <hi>GRACE BE WITH YOV and peace from God our Fa<g ref="char:EOLhyphen"/>ther, &amp; from the Lord Ieſus Chriſt.</hi>
+            </p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:177161:3"/>
+            <pb facs="tcp:177161:3"/>
+            <head>THE EPISTLE <hi>Dedicatorie.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">R</seg>IGHT Wor<g ref="char:EOLhyphen"/>ſhipfull, &amp; you the reſt Beloved in our Lorde. That which the Apoſtle ſaid co<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>cerning <hi>Wiues</hi> of being ſubiect to their<note n="a" place="margin">1. Pet. 3.1</note> 
+               <hi>Husbands</hi> that <hi>even they which obeyed not the word might without the word haue beene wonne by the converſa<g ref="char:EOLhyphen"/>tion of the wiues, while they beheld their pure converſation which was with feare:</hi> may with good congruity be ſaid to <hi>Proteſtant-Chriſtians,</hi> of often freque<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>ting <hi>Church-Service,</hi> that even they which obey not the word (I meane
+<pb facs="tcp:177161:4"/> Roman-Catholickes) may without the word be wonne by the converſa<g ref="char:EOLhyphen"/>tio<g ref="char:cmbAbbrStroke">̄</g> of ſuch Proteſtants, while they be hold <hi>our pure converſation which is</hi> or ought to be <hi>with feare.</hi> Howbeit ſuch hath beene the coldnes of a manie in this kind, the averſenes of others vn<g ref="char:EOLhyphen"/>leſſe there be Sermons to, the conni<g ref="char:EOLhyphen"/>vence even of Paſtors, I, and ſoothing their Flocke in this ſin, that the Peo<g ref="char:EOLhyphen"/>ple who by their converſatio<g ref="char:cmbAbbrStroke">̄</g> ſhould haue converted others vnto vs, are themſelues now in theſe daies co<g ref="char:cmbAbbrStroke">̄</g>ver<g ref="char:EOLhyphen"/>ted vnto them, and a many of vs the Miniſters that hoaped of much inter<g ref="char:EOLhyphen"/>eſt of bringing ſouls vnto God, ſtand nowe in doubte of looſing the verie<note n="b" place="margin">Etiam de ſorte nunc venio in du<g ref="char:EOLhyphen"/>bium miſer, Terent. A<g ref="char:EOLhyphen"/>d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lph. Act. <hi>2</hi> ſc. <hi>2.</hi>
+               </note> principall it ſelfe. <hi>I pray God</hi>
+               <note n="c" place="margin">2. Tim. 4.16.</note> ſaith the Apoſtle in a caſe of leſſe moment, <hi>that it may not be laid to their charge.</hi> Doubtleſſe among all the overſights to be laide to the charge of vs Prote<g ref="char:EOLhyphen"/>ſtants, this of freque<g ref="char:cmbAbbrStroke">̄</g>ting Gods houſe no better is not the leaſt, eſpecially
+<pb facs="tcp:177161:4"/> nowe in theſe times when the Lorde our God hath done ſo miraculouſlie ſo much for vs, and when his honour (as it were) lies at the ſtake, and the fruit that wee bring forth makes his name (I would I might not ſay) blaſ<g ref="char:EOLhyphen"/>phemed among the Papiſts.</p>
+            <p>The conſideration hereof Right deare and dearely Beloved Chriſti<g ref="char:EOLhyphen"/>ans, hath cauſed me as at the firſt to preach theſe two Sermons, the <hi>one</hi> to the <hi>Vniverſity,</hi> the <hi>other</hi> to <hi>your ſelues:</hi> ſo nowe to ſet them forth only and wholy to your ſelues, that as one of them was the very firſt Sermon that ever I preached vnto you ſince I came to be your Paſtor, ſo it might re<g ref="char:EOLunhyphen"/>maine vnto you for ever as a teſtimo<g ref="char:EOLhyphen"/>ny of my care of you, and not periſh with me when I am gone as did a ma<g ref="char:EOLhyphen"/>ny good words in this kinde with my worthy Predeceſſor <hi>M<hi rend="sup">r</hi> Wharton.</hi>
+            </p>
+            <p>Were this your Pariſh of that na<g ref="char:EOLhyphen"/>ture that others be, &amp; the Pulpit not
+<pb facs="tcp:177161:5"/> ſo often, and neceſſarily to be ſupply<g ref="char:EOLhyphen"/>ed by the <hi>Vniverſity</hi> as it is, perhaps I would ſpeake thence vnto you more often then I doe, but ſince I cannot what I would, I will now do what I can, even preach vnto you<note n="d" place="margin">Evangeli<g ref="char:EOLhyphen"/>zo manu &amp; ſcriptione Raynold. de Rom. Eccleſ. Idol Epiſt. ad Comit. Eſſex.</note> 
+               <hi>by wri<g ref="char:EOLhyphen"/>ting,</hi> and <hi>it grieveth me not</hi> (as<note n="e" place="margin">Phil. 3.1.</note> ſpeaks the Apoſtle) <hi>to write the ſame things to you, and for you it is a ſure thing.</hi>
+            </p>
+            <p>When our Saviour was riſen a<g ref="char:EOLhyphen"/>gaine from the dead and <hi>Mary Mag<g ref="char:EOLhyphen"/>dalen,</hi> and the other <hi>Mary</hi> came to ſee the ſepulchre, &amp; by reaſon of the An<g ref="char:EOLhyphen"/>gels countenance that had deſcended from heaven, it ſhoulde ſeeme they were ſomewhat frighted, <hi>Feare ye not</hi>
+               <note n="f" place="margin">Mat. 28.5</note> ſaith the Angell, <hi>for I know that ye ſeeke Ieſus which was crucified: he is not here for he is riſen, as he ſaid, Come ſee the place where the Lord was laid, And go quickly, and tell his Diſciples that hee is riſen from the dead: and behold hee go<g ref="char:EOLhyphen"/>eth before you into Galile: there ye ſhall ſee him: lo I haue told you.</hi> I doubt not
+<pb facs="tcp:177161:5"/> Beloved, a many of you are as deſi<g ref="char:EOLhyphen"/>rous to find <hi>Ieſus</hi> as ever thoſe wome<g ref="char:cmbAbbrStroke">̄</g> were, eſpecially in this age when ſo many Romiſh <hi>Sable Catholicks,</hi> ſo ma<g ref="char:EOLhyphen"/>ny Engliſh <hi>Browne-Schiſmatickes</hi> ſo verefie our Saviours words,<note n="g" place="margin">Mark. 13.21.</note> 
+               <hi>Lo here is Chriſt, or to he is there,</hi> as it is in Saint <hi>Marks</hi> Goſpell. I know I am not fit to be likened to the Angell, but yet may I ſay what did the Angell <hi>Lo I haue told you,</hi> and as our Saviour<note n="h" place="margin">Mat. 11.14.</note> ſaid in another caſe of <hi>Iohn</hi> the Baptiſt, <hi>And if ye will receiue it, this is Elias:</hi> ſo I in this caſe, <hi>And if ye will receiue it,</hi> this is the truth I haue here delivered in theſe Sermons.</p>
+            <p>Wherefore as the Prophet <hi>Eſay</hi>
+               <note n="i" place="margin">Eſay. 30.21.</note> ſaid to the <hi>Iewes, Thine eares ſhall heare a word behind thee, ſaying, This is the way walke yee in it, whe<g ref="char:cmbAbbrStroke">̄</g> thou turneſt to the right hand, and when thou turneſt to the left:</hi> ſo aſſure your ſelues that now in this Age when there is ſo much turning on the <hi>Right Hand,</hi> and
+<pb facs="tcp:177161:6"/> on the <hi>Left,</hi> this is the <hi>Word</hi> your eares haue heard, and I ingenuouſly profeſſe that after ſo many yeares ſpent in this famous <hi>Vniverſitie</hi> in reading <hi>Olde</hi> and <hi>New</hi> writers (you knowe whoſe<note n="k" place="margin">Mat. 13.15.</note> precept it was) if <hi>ei<g ref="char:EOLhyphen"/>ther</hi> of the other waies, or any <hi>other</hi> had appeared vnto me better, for the better directing of your Soules, or doubtleſſe I would haue proclai<g ref="char:EOLhyphen"/>med it to you vpon the houſe top, hauing had ſo many opportunities, or I would at leaſtwiſe at this time haue vtterly abſtained from printing This: a labour (beleeue me) not the leaſt, and now as the world goeth not ſo neceſſarily to be vndertaken.</p>
+            <p>J had purpoſed to haue put you in mind, <hi>of</hi> the place of aboad God hath given you, even in the eye of this <hi>Vni<g ref="char:EOLhyphen"/>verſitie</hi> (the <hi>Vniverſitie</hi> the eye of the Land) as though his meaning were you ſhould be examples to all about you, how they alſo like you ſhould
+<pb facs="tcp:177161:6"/> frequent his Houſe: <hi>of</hi> Church-Ser<g ref="char:EOLhyphen"/>vice and of Sermons how they are both (if well performed) like <hi>Rahel,</hi> &amp; <hi>Leah</hi> (but <hi>Leah</hi> without a blemiſh) which twaine did build the houſe of <hi>Iſrael</hi> and multiplied the heires of the promiſed land: <hi>of</hi> being to be as loath to looſe the <hi>one</hi> at any time whatſoe<g ref="char:EOLhyphen"/>ver, as a many are or ſeeme to be, to looſe the <hi>other,</hi> the profit being in<g ref="char:EOLhyphen"/>comparable that accreweth vnto vs by either: <hi>of</hi> being much more hard to <hi>Pray,</hi> then it is to heare a <hi>Sermon,</hi> and therefore how it behoveth vs to come the oftner to ſhew our willing<g ref="char:EOLunhyphen"/>neſſe to vndergoe the greater paines in Gods Service: but I am now, even very<note n="o" place="margin">
+                  <hi>Octob.</hi> 15. 1612.</note> now, ſurpriſed with the newes of her death, who was vnto me in her life the only Iewel of this world. I had thought that Shee alſo ſhould haue had the pervſing of theſe Sermons, and haue ſeene in S<hi rend="sup">t</hi> 
+               <hi>Anſtens</hi> Mo<g ref="char:EOLhyphen"/>ther (twiſe mentioned in the former
+<pb facs="tcp:177161:7"/> of them) the true ſimilitude of he<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ſelfe. But God hath now diſpoſed o<g ref="char:EOLhyphen"/>therwiſe, and given her the place al<g ref="char:EOLhyphen"/>ready, which this Booke would but haue guided and directed her vnto, and well am I worthy to looſe the benefit of ſo good a Reader as Shee would haue beene, who haue ſuffred it ſo long to lie hidden by me as it hath. O my deare and worthy <hi>Mother</hi> what ſhall I ſay concerning thee? I might ſay of thee as<note n="l" place="margin">Muliebri habites, virili fide, anili ſe<g ref="char:EOLhyphen"/>curitate, ma<g ref="char:EOLhyphen"/>terna chari<g ref="char:EOLhyphen"/>tate, chriſtia<g ref="char:EOLhyphen"/>na pietate, Aug. Confeſ- l. <hi>9.</hi> c. <hi>4.</hi>
+               </note> S<hi rend="sup">t</hi> 
+               <hi>Auſten</hi> of his Mother, <hi>Thou wert of a womanly carria<g ref="char:EOLhyphen"/>ge but of a manly faith, thou wert fraught with an aged tranquillitie of mind, with motherly loue and Chriſtian affection.</hi> I might ſay of thee as <hi>Nazi<g ref="char:EOLhyphen"/>anzen</hi> of his<note n="m" place="margin">Nazian E<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>itaph. Pa<g ref="char:EOLhyphen"/>tris.</note> Mother: <hi>As the Sunne beames are faire and cleere in the mor<g ref="char:EOLhyphen"/>ning and grow brighter and warmer to<g ref="char:EOLhyphen"/>wards noone, even ſo my Fathers wife, ſhewing forth the pleaſant firſt fruits of godlineſſe at the beginning, afterwardes ſhined out with greater light.</hi> I might
+<pb facs="tcp:177161:7"/> ſay of thee as did S<hi rend="sup">t</hi>
+               <note n="n" place="margin">O vera ma<g ref="char:EOLunhyphen"/>ter, adaman<g ref="char:EOLhyphen"/>te forti<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r, melle dulci<g ref="char:EOLhyphen"/>or, flore fra<g ref="char:EOLhyphen"/>grantior Am<g ref="char:EOLunhyphen"/>broſ. de Ia<g ref="char:EOLhyphen"/>cob. &amp; vita beata. l. <hi>2.</hi> c. <hi>12.</hi>
+               </note> 
+               <hi>Ambroſe</hi> of the <hi>Mother</hi> in the <hi>Machabees, O trueſt Mother, ſtronger then Adamant, ſweeter then Hony, more fragrant then the Roſe.</hi> But I will now ſay nothing of thee, only this will I ſay of my ſelfe, I that haue ſaid ſo much vpon the <hi>ſeaven</hi> &amp; <hi>twentith Pſalme</hi> the <hi>fourth verſe,</hi> the ſubiect of this booke: muſt turne me now vnto another Text, and medi<g ref="char:EOLhyphen"/>tate another while vpon the<note n="o" place="margin">I went hea<g ref="char:EOLunhyphen"/>vily as one that mour<g ref="char:EOLhyphen"/>neth for his Mother. Pſ. <hi>35.14.</hi>
+               </note> 
+               <hi>fiue &amp; thirty Pſalme</hi> the <hi>foureteenth verſe,</hi> the proiect perhaps of another book.</p>
+            <p>Pardon me Beloved if I haue as you ſee thus left you a while, &amp; paid this tribute of theſe few lines to the true <hi>Soveraigne</hi> of my <hi>Loue,</hi> I now come vnto you againe, and ſpeake a<g ref="char:EOLhyphen"/>gaine vnto you but in that which heareafter followeth, and which in part you haue heard already, in part you ſhall now heare.</p>
+            <closer>
+               <signed>Your no leſſe loving, then loved Paſtor, <hi>IOHN DAY.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div n="1" type="sermon">
+            <pb facs="tcp:177161:8"/>
+            <pb n="1" facs="tcp:177161:8"/>
+            <head>
+               <hi>DAVIDS DESIRE</hi> to goe to Church.<note place="margin">1. Serm.</note>
+            </head>
+            <p>
+               <seg rend="decorInit">I</seg>T is<note n="a" place="margin">2. Sam. 7.<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> recorded of king <hi>David,</hi> Right Worſh: <hi>Men, Fathers,</hi> &amp; <hi>Brethren,</hi> belo<g ref="char:EOLhyphen"/>ved in our <hi>Lord</hi> &amp; <hi>Saviour,</hi> that when he ſate in his owne houſe, and the Lord had gi<g ref="char:EOLhyphen"/>ven him reſt fro<g ref="char:cmbAbbrStroke">̄</g> all his enemies round about him, how <hi>he deſired</hi> as <hi>S. Stephen</hi> ſpeaketh Acts the ſeaventh, at the ſix &amp; fortith verſe, that <hi>he might find a ta<g ref="char:EOLhyphen"/>bernacle for the God of Iacob.</hi> I will re<g ref="char:EOLhyphen"/>late it to you in <hi>Davids</hi> words, <hi>Lord</hi> ſaith<note n="b" place="margin">Pſ. 132.1.</note> 
+               <hi>David,</hi> or whoſoever els was the author of that Pſalme, <hi>Lord</hi> ſaith he, <hi>remember David, and all his trouble: how he ſware vnto the Lord and vowed a vow vnto the Almightie God of Iacob, I will not come within the tabernacle of
+<pb n="2" facs="tcp:177161:9"/> my houſe, nor climbe vp into my bed, I will not ſuffer mine eies to ſleepe, not mine eie lids to ſlu<g ref="char:cmbAbbrStroke">̄</g>ber, nether the temples of my head to take any reſt, vntill I find out a place for the temple of the Lord, an habitation for the mighty God of Iacob.</hi> All this in the ſecond of <hi>Samuel</hi> the ſeaventh chapter and ſecond verſe, is thus epitomiſed: <hi>The king ſaid vnto Nathan the Prophet, Behold now, I dwell in a houſe of Cedar trees, and the Arke of God remaineth within the curtaines.</hi> His meaning was that ſince al fel out ſo favourably, with ſuch correſpon<g ref="char:EOLhyphen"/>dence to his deſires, ſince hee had ſo much reſt from al his enemies, &amp; God was the author of all this, he would now be gratefull againe to that God, not ſo much in words which are but winde, as in very truth and real deeds, ſuch as might be teſtimonies thereof both to the time then preſent, and to after ages that were to come. <hi>Beholde now, I dwell in a houſe of Cedar trees and
+<pb n="3" facs="tcp:177161:9"/> the Arke of God remaineth within the curtaines.</hi> It was as if he had ſaid, God hath beſtowed a houſe on me, I will beſtow a houſe on him too, hee hath given me reſt from all mine enimies, I will giue him a kind of reſt too, hee ſhall not be from<note n="c" place="margin">1. Chron. 17.5.</note> 
+               <hi>tent to tent,</hi> and from <hi>habitation to habitation</hi> as hee hath been hetherto. A princely mind and meditation, a reſolution fit for him who was to bee the man after Gods owne heart,<note n="d" place="margin">Sam. 13.14.</note> as <hi>Samuel</hi> the Pro<g ref="char:EOLhyphen"/>phet avouched of him.</p>
+            <p>The former part of this day now newly ſpent and gon, hath by the ſil<g ref="char:EOLhyphen"/>ver tongue of one of the chiefeſt &amp;<note n="e" place="margin">M.D Riues Warden of New College</note> ſweeteſt ſingers in this our <hi>Iſrael</hi> put vs in mind of like benefits recea<g ref="char:EOLhyphen"/>ved on our parts from God aboue: of ſetting at home here in our owne houſes, every of vs vnder our <hi>owne vine:</hi> of a ſingular reſt given vnto vs from all our enimies round about vs. This day, this very day, it was more
+<pb n="4" facs="tcp:177161:10"/> then miraculous that God did for vs, it was in truth a heap of miracles, as <hi>firſt</hi> the preſerving of our bodies and goods, <hi>ſecondly</hi> the prolonging of our liues, <hi>thirdly</hi> the ſaving of our whole Realme, <hi>fourthly</hi> the protecti<g ref="char:EOLhyphen"/>on of true Religion, and all theſe then and at that time when ſafetie it ſelfe might ſafely haue ſworn that ſhe for her part could not haue ſaued vs. <hi>Da<g ref="char:EOLhyphen"/>vid</hi> on a time neere to danger ſpake moſt ſignificantly when ſpeaking of it vnto <hi>Ionathan, As the Lord liveth, &amp; as thy ſoule liveth</hi>
+               <note n="f" place="margin">1. Sa<g ref="char:cmbAbbrStroke">̄</g>. 20.3</note> ſaith he, <hi>there is but a ſtep betweene me and death. Anachar<g ref="char:EOLhyphen"/>ſis</hi> the Scithian ſpeaking of thoſe that ſayled by ſea, and hearing that a ſhip was but foure fingers thicke at the moſt, <hi>then are there but foure fingers,</hi>
+               <note n="g" place="margin">Diog. Laert tit. in Anach</note> ſaith he, <hi>betweene them and death.</hi> At another time being demaunded who were more in number the living or the dead: <hi>tell me firſt,</hi>
+               <note n="h" place="margin">Diog. Laert Ib.</note> quoth hee, <hi>a<g ref="char:EOLhyphen"/>mong whether of them you reckon thoſe
+<pb n="5" facs="tcp:177161:10"/> that travell by ſea:</hi> his meaning was that howſoever they ſeeme to liue, to moue, and haue a being, yet they might with good congruitie bee ac<g ref="char:EOLhyphen"/>counted even for dead, for <hi>nothing ſo ful of caſualties as the</hi>
+               <note n="i" place="margin">Nihil tam capax fortui<g ref="char:EOLhyphen"/>torum quàm mare. Tacit. Annal. l. <hi>14.</hi>
+               </note> 
+               <hi>ſea</hi> and that in the turning of a hand.</p>
+            <p>Vpon how tickliſh tearmes wee ſtood this very day when time<note n="k" place="margin">
+                  <hi>Novemb.</hi> 5 1605</note> was, the more we muſe of it the more we may, &amp; how might al &amp; every of theſe ſpeeches here rehearſed haue bin ve<g ref="char:EOLhyphen"/>rified of vs. A <hi>ſtep</hi> of that wretched miſcreant might irrecoverably haue laid all our honour in the duſt, a ve<g ref="char:EOLhyphen"/>ry <hi>finger</hi> of his might haue done it. Our adverſaries abroad that ſaw the caſe wherein wee ſtood, how did they newſe it to one another that wee might bee now accoun<g ref="char:EOLhyphen"/>ted dead. <hi>A</hi>
+               <note n="l" place="margin">Diſcourſe of this late in<g ref="char:EOLhyphen"/>tended trea<g ref="char:EOLhyphen"/>ſon. Fol. F. <hi>3.</hi>
+               </note> 
+               <hi>Terrible Blow</hi> was now at hand, we had all and every of vs but one necke, and that neck of ours was now on the block. The horror wher<g ref="char:EOLhyphen"/>of
+<pb n="6" facs="tcp:177161:11"/> if we would conceiue let vs but i<g ref="char:EOLhyphen"/>magine another <hi>Fauks</hi> in ſome one of the vaults here abouts, as many bar<g ref="char:EOLhyphen"/>rels, as much powder, and that which then matched both barrels and pow<g ref="char:EOLhyphen"/>der. Doubtleſſe we are never better affected vnto God the<g ref="char:cmbAbbrStroke">̄</g> whe<g ref="char:cmbAbbrStroke">̄</g> we pray: we are now in the houſe of praier, &amp; prayer you know was the laſt, the ve<g ref="char:EOLhyphen"/>rie laſt thing we did, yet ſhould we all of vs now miſcarry and in this very in ſtant of time be ſnatcht out of the world and haue the ſudden death of thoſe of who<g ref="char:cmbAbbrStroke">̄</g> 
+               <hi>Elihu</hi> in <hi>Iob</hi>
+               <note n="m" place="margin">Iob. 34, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>0. <hi>Tremel.</hi>
+               </note> ſpeaketh <hi>momento moriuntur,</hi> they are gone in a trice, or as ſpeaketh the<note n="n" place="margin">1. Cor. 15 5<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> Apoſtle <hi>S. Paule, In momento, in ictu oculi, in a moment in the twinkling of an eie,</hi> how vnpreparedly might we all goe to appeare before that throne where this day we ſhould receiue everie of vs our laſt doome. And yet wee are but a handful to the<note n="o" place="margin">See the B. of Linc. An<g ref="char:EOLhyphen"/>ſwer to a nameles Ca<g ref="char:EOLhyphen"/>thol. p <hi>360. 361.</hi>
+               </note> houſe ful of the<g ref="char:cmbAbbrStroke">̄</g> that ſhould haue miſcarried, and yet
+<pb n="7" facs="tcp:177161:11"/> they though well affected no doubt as men in civill affaires might bee, yet ſomewhat perhaps behind our ſelues in reſpect of the ſoules buſineſſe wee are about.</p>
+            <p>But it is not nowe of this point I point now to ſpeake, my intent and purpoſe is to ſpeake of the <hi>Thanke<g ref="char:EOLhyphen"/>fulneſſe</hi> and <hi>Gratitude</hi> wee are to per<g ref="char:EOLhyphen"/>forme to God for this, not ſo much in words which are but winde, as in very truth and real deeds, ſuch as may be teſtimonies thereof both to theſe times now preſent, and to after ages that are to come. What hath the Lord preſerved our honor? We will alſo preſerue his. Hath he made our houſholds like<note n="p" place="margin">Pſ 107.4.</note> flocks of ſheep? We will endevour in like manner to fur<g ref="char:EOLhyphen"/>niſh alſo his houſe: be it early, bee it late, it ſhall not for our partes, be ſo naked as it hath beene hetherto.</p>
+            <p>To the producing of which effect in every of vs here preſent, be wee of
+<pb n="8" facs="tcp:177161:12"/> the one Corporation or of the other, of the one or other ſex, I haue at this time brought vnto you a certain paſ<g ref="char:EOLhyphen"/>ſage of <hi>Davids</hi> Pſalmes, that as <hi>David</hi> is the man who puts vs in minde of this gratitude, ſo he might inſtruct vs in the manner to how this gratitude ſhould be performed, not in finding out <hi>new</hi> places for the Temple of the Lord, <hi>new</hi> habitations for the God of <hi>Iacob</hi> (there is no ſuch neceſſity now a daies) but in maintaining the <hi>old</hi> pla<g ref="char:EOLunhyphen"/>ces, the <hi>old</hi> habitations of the God of <hi>Iacob,</hi> and that by tendring there our continual preſence at the vſual times of Divine Service.</p>
+            <p>The wordes I haue choſen to this purpoſe are in the fourth verſe of the ſeaven and twenty Pſalme, and parcel of the wordes this very night to be read at <hi>Evening Prayer:</hi> which will cauſe me alſo in reading them to fol<g ref="char:EOLhyphen"/>low the tra<g ref="char:cmbAbbrStroke">̄</g>ſlatio<g ref="char:cmbAbbrStroke">̄</g> we the<g ref="char:cmbAbbrStroke">̄</g> vſe, not that which is vſuall in our <hi>Bibles</hi> though
+<pb n="9" facs="tcp:177161:12"/> the differe<g ref="char:cmbAbbrStroke">̄</g>ce in this verſe be but ſmal. The words are theſe:
+<q>One thing haue I deſired of the Lord which I will require, even that I maie dwell in the houſe of the Lord al the daies of my life, to beholde the faire beauty of the Lord, and to viſit his Temple.</q>
+            </p>
+            <p>IN which words without curioſity of giving every hen her own egge, as <hi>Plinie</hi>
+               <note n="q" place="margin">Plin. hiſt. nat. l. <hi>10.</hi> c. <hi>15.</hi>
+               </note> tels vs of one that was able to doe it with his hens, may it pleaſe you to obſerue with mee two ſpeciall points as here they lie, <hi>Firſt</hi> a Petition of the Prophet <hi>Davids, Se<g ref="char:EOLhyphen"/>condly</hi> the Reaſon of that petition. The Prophets Petitio<g ref="char:cmbAbbrStroke">̄</g> in theſe words <hi>One thing haue I deſired of the Lord which I will require, even that I may dwell in the houſe of the Lord all the daies of my life:</hi> the Reaſon of it in theſe, <hi>To behold the faire beautie of the Lord, and to viſit his Temple.</hi> The Petition wee
+<pb n="10" facs="tcp:177161:13"/> ſhall beſt conſider of, if ſo be we con<g ref="char:EOLhyphen"/>ſider therein the <hi>Matter</hi> of it, and the <hi>Manner</hi> of making it. The <hi>Manner</hi> of making it in theſe words, <hi>One thing haue I deſired of the Lord which I will re<g ref="char:EOLhyphen"/>quire:</hi> the <hi>Matter</hi> of it in theſe, <hi>Even that I may dwell in the houſe of the Lord all the daies of my life.</hi> But it is with this <hi>Matter</hi> &amp; <hi>Manner</hi> here as it was with <hi>Thamars</hi>
+               <note n="r" place="margin">Gen. 38.28.</note> twinnes, the Maner ſhewes it ſelfe firſt, but the Matter muſt firſt be handled. Firſt and fore<g ref="char:EOLhyphen"/>moſt therefore of the <hi>Matter, Even that I may dwell in the houſe of the Lord all the daies of my life.</hi> Wherein for our better proceeding I ſhal obſerue vnto you three points, <hi>firſt,</hi> what kind of houſe this was, <hi>ſecondly,</hi> what it was to dwell in it, <hi>thirdly,</hi> the conveniency of dwelling there. And of every of theſe in their order, &amp; every of theſe in theſe words, <hi>Even that I may dwell in the houſe of the Lord all the daies of my life.</hi> Firſt therefore of the houſe,
+<pb n="11" facs="tcp:177161:13"/> 
+               <hi>Even that I may dwell in the houſe of the Lord.</hi>
+            </p>
+            <p>As the Lord God out of the whol maſſe of mankind hath reſerued to himſelfe ſome whome he calleth his <hi>Elect,</hi> of times and ſeaſons ſome his <hi>Saboths,</hi> and ſolemne <hi>Feaſts,</hi> of ſerva<g ref="char:cmbAbbrStroke">̄</g>ts and attendants ſome his <hi>Miniſters,</hi> &amp; <hi>Prieſts,</hi> of goods and wealth that men enioy, ſome his <hi>Tithes</hi> &amp; <hi>Oblations,</hi> ſo out of the habitations of the ſonnes of men ſome he hath reſerved which he cals his <hi>Houſe</hi> &amp; <hi>Temple.</hi> Now what kind of houſe this was, what better inſtructio<g ref="char:cmbAbbrStroke">̄</g> may be had then from the owner of it himſelfe. The owner of it was the Lord, who though hee<note n="ſ" place="margin">Eſay. 66<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> ſaid when time was, <hi>Heaven is my throne, and the earth is my footſtoole, where is that houſe that you will build vnto mee, and where is the place of my reſt?</hi> that is, as <hi>S<hi rend="sup">t</hi> Steven</hi>
+               <note n="t" place="margin">Act. 7.49.</note> interprets it, <hi>what houſe will yee build for me, or what place is it that I ſhould reſt in?</hi> Yet a houſe hee
+<pb n="12" facs="tcp:177161:14"/> had, &amp; a place there was, not ſo much to reſt himſelfe in, as where his people might reſt there hopes to heare dayly and duly from him. The very firſt me<g ref="char:cmbAbbrStroke">̄</g>tio<g ref="char:cmbAbbrStroke">̄</g> of this houſe is made in the booke of <hi>Exodus,</hi> where he cal<g ref="char:EOLhyphen"/>leth it a <hi>Sanctuary,</hi> whe<g ref="char:cmbAbbrStroke">̄</g> ſpeaking vnto <hi>Moſes, They ſhal make me,</hi> ſaith he, <hi>a Sa<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>ctuary that I may dwell among the<g ref="char:cmbAbbrStroke">̄</g>.</hi>
+               <note n="u" place="margin">Exod. 25.8.</note> True it is that long before ſome ſpeech there was of Gods houſe, as in the booke of <hi>Geneſis, how fearefull</hi>
+               <note n="c" place="margin">G<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 28.17</note> ſaith <hi>Iacob is this place? This is no other but the houſe of God:</hi> and<note n="x" place="margin">V. 22.</note> againe a little after, <hi>This ſtone which I haue ſet vp as a pillar ſhalbe Gods houſe:</hi> but where me<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>tion was firſt made that it ſhould im<g ref="char:EOLhyphen"/>mediatly be gone in hand withall, &amp; a ſpeciall name giuen vnto it wherby perpetually it ſhould be called, that as I ſaid was firſt in <hi>Exodus</hi> where the Lord himſelfe cals it by the name of a <hi>Sanctuary.</hi> It is called in the ſame place an<note n="y" place="margin">Exod. 25.10.</note> 
+               <hi>Arke</hi> beſides, and a<note n="z" place="margin">V. 19.</note> 
+               <hi>Ta<g ref="char:EOLhyphen"/>bernacle,</hi>
+               <pb n="13" facs="tcp:177161:14"/> which three names howſo<g ref="char:EOLhyphen"/>euer ſeuerally diſtinguiſhed among them ſelues, are but the diuers appel<g ref="char:EOLhyphen"/>lations &amp; names of this houſe, as firſt for the <hi>Sanctuarie,</hi> Pſalme the ſeaven<g ref="char:EOLhyphen"/>ty third at the fifteenth verſe, <hi>Then thought I</hi> ſaith the Prophet <hi>to vnder<g ref="char:EOLhyphen"/>ſtand this, but it was to hard for me, vn<g ref="char:EOLhyphen"/>till I went into the Sanctuary of God:</hi> ſe<g ref="char:EOLhyphen"/>condly for the <hi>Arke,</hi> Pſalme the hun<g ref="char:EOLhyphen"/>dred thirty ſecond at the eight verſe, <hi>Ariſe O Lord into thy reſting place, thou, and the Arke of thy ſtrength:</hi> thirdlie for the <hi>Tabernacle,</hi> in the<note n="a" place="margin">Pſ. 27.5.</note> next words to this my text, <hi>He ſhall hide me in his Tabernacle, yea in the ſecret of his dwel<g ref="char:EOLhyphen"/>ling ſhall he hide me.</hi> Now as in a ma<g ref="char:EOLhyphen"/>teriall and worldly building wee then know it beſt when we know the ſeve<g ref="char:EOLhyphen"/>ral roomes of it, and to what vſe each roome ſerues, ſo let vs ſee in the ſa<g ref="char:EOLhyphen"/>cred Scriptures and other writers be<g ref="char:EOLhyphen"/>ſides what is ſaide of theſe three roomes, in regard wherof this houſe
+<pb n="14" facs="tcp:177161:15"/> of God was called by theſe names.</p>
+            <p>Firſt then concerning the <hi>Taberna<g ref="char:EOLunhyphen"/>cle</hi> wee ſhall finde it recorded<note n="b" place="margin">Act. 7.44. Exod. 25.40. Heb. 8 5.</note> 
+               <hi>that</hi> it was the Lords owne invention, and how he ſhewed a patterne of it in the mount;<note n="c" place="margin">Ioſeph. Antiq. l. 3. c <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> 
+               <hi>that</hi> after it was once reared it ſaved <hi>Moſes</hi> his long iournies vp to mount Sinay, the Lord as it were ta<g ref="char:EOLhyphen"/>king the paines to come downe to him: <hi>laſtly,</hi> that the <hi>cloud</hi> of the Lord was<note n="d" place="margin">Exod. 40.38.</note> vpon it by day, and <hi>fire</hi> was in it by night in the ſight of al the houſe of <hi>Iſrael</hi> throughout al their iournies, wherevpon an ancient Father,<note n="e" place="margin">Clem. Alex. Orat. Adhor. ad Gentes.</note> 
+               <hi>this cloud,</hi> ſaith hee, <hi>waited on the Hebrewes like a</hi>
+               <note n="f" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> 
+               <hi>handmaid, and as for the fire it was,</hi> ſaith the ſame Father, <hi>a</hi>
+               <note n="g" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> 
+               <hi>token of grace and feare too, if ſo be they would o<g ref="char:EOLhyphen"/>bey then was it light to lead them, if not but they would be waiward, then was it fire to conſume them.</hi>
+            </p>
+            <p>Secondly concerning the <hi>Arke</hi> we ſhal fiind it recorded in holy ſcrip<g ref="char:EOLhyphen"/>ture <hi>that</hi> it was ſtiled and called by
+<pb n="15" facs="tcp:177161:15"/> Gods owne peculiar<note n="h" place="margin">Ioſ. 4.13. 2. Sam. 6.2,</note> name: <hi>that</hi> when it was borne on the Prieſts ſhoulders, the feet of them that bare the <hi>Arke</hi> were no ſooner dipped in <hi>Iordans</hi> water but <hi>Iordan</hi> was driven<note n="i" place="margin">Ioſ. 3.15.</note> backe, <hi>the mountaines skipped like</hi>
+               <note n="k" place="margin">Pſ. 114.3.</note> 
+               <hi>rams, &amp; the little hils like young ſheep: that</hi> it was the cauſe of the falling downe of<note n="l" place="margin">Ioſh. 6.4.</note> 
+               <hi>Iericoes</hi> wals: <hi>that</hi> when it was brought into <hi>Dagons</hi> houſe,<note n="m" place="margin">1. Sa<g ref="char:cmbAbbrStroke">̄</g>. 5.3.</note> 
+               <hi>Da<g ref="char:EOLunhyphen"/>gon</hi> was overthrowne: <hi>that</hi>
+               <note n="n" place="margin">V. 9</note> when it came into <hi>Gath,</hi> it made havocke of Gods enemies,<note n="o" place="margin">Pſ. 78 67.</note> 
+               <hi>it ſmote them on the hinder parts and put them to a perpetual ſhame: that</hi> when it came to <hi>Ekron,</hi> it did as much vnto the<note n="p" place="margin">1. Sa<g ref="char:cmbAbbrStroke">̄</g>. 5.11</note> 
+               <hi>Ekronites: that</hi> whe<g ref="char:cmbAbbrStroke">̄</g> the milch kine brought it home it<note n="q" place="margin">1. Sa<g ref="char:cmbAbbrStroke">̄</g>. 6.12</note> guided the kine in that their iour<g ref="char:EOLhyphen"/>ney, it was as the rudder in a ſhip which though it be behind, yet direc<g ref="char:EOLhyphen"/>teth all afore: laſtly we ſhal there find <hi>that</hi> when the men of<note n="r" place="margin">V. 19.</note> 
+               <hi>Bethſhemeth</hi> pried into it over boldly, it ſlew aboue fiftie thouſand at one time, ſo exaſpe<g ref="char:EOLhyphen"/>rated
+<pb n="16" facs="tcp:177161:16"/> was the Lord againſt them. All that afterwards hapned by it, as the<note n="ſ" place="margin">2. Sa<g ref="char:cmbAbbrStroke">̄</g>. 6.7.</note> 
+               <hi>ſlaying</hi> of <hi>Vzzah</hi> but for touching it, the <hi>bleſſing</hi> of<note n="t" place="margin">V. 11.</note> 
+               <hi>Obed Edom</hi> for enter<g ref="char:EOLhyphen"/>taining it, and ſome other things be<g ref="char:EOLhyphen"/>ſides, I now omit at this time as be<g ref="char:EOLhyphen"/>ing done by all likelyhood after the compoſing of this Pſalme and there<g ref="char:EOLhyphen"/>fore not likely that the Prophet here had any relation to theſe events.</p>
+            <p>Thirdly concerning the <hi>Sanctuary</hi> we ſhall find it recorded there, what pretious Iewels that had in it being the cabinet as it were and casket of them, as <hi>firſt,</hi> this aforeſaid<note n="u" place="margin">Heb. 9.4.</note> 
+               <hi>Arke</hi> and all the ſacred things therein con<g ref="char:EOLhyphen"/>tained, the golden pot wherein was <hi>Manna,</hi> and <hi>Arons rod</hi> that had bud<g ref="char:EOLhyphen"/>ded, and the <hi>Tables</hi> of the <hi>Teſtament: ſecondly,</hi> the golden<note n="c" place="margin">Heb. Ib.</note> 
+               <hi>Cenſer: thirdly,</hi> the mercy ſeat of<note n="x" place="margin">Exod. 25 17.</note> gold: <hi>fourthly,</hi> the<note n="y" place="margin">V. 18.</note> 
+               <hi>Cherubins</hi> of gold too: <hi>fifthly,</hi> the<note n="z" place="margin">V. 38.</note> diſhes, cups, coverings, and<note n="a" place="margin">V. 31.</note> candle<g ref="char:EOLhyphen"/>ſtickes of gold. We ſhall find it recor<g ref="char:EOLhyphen"/>ded
+<pb n="17" facs="tcp:177161:16"/> there <hi>that</hi> the Lord from thence gaue forth his<note n="b" place="margin">Exod. 25.22. Numb. 7.89</note> 
+               <hi>Oracles,</hi> and told all things vnto <hi>Moſes</hi> concerning the children of <hi>Iſrael.</hi> We ſhall find it re<g ref="char:EOLhyphen"/>corded there <hi>that</hi> the high Prieſt went into it<note n="c" place="margin">Heb. 9.7. Levit. 16.33.</note> once every yeare to make an attonement both for him<g ref="char:EOLhyphen"/>ſelfe, for the Prieſts, and for the Peo<g ref="char:EOLhyphen"/>ple. Laſtly we ſhall find it recorded there <hi>that</hi> it was<note n="d" place="margin">Heb. 9.3.</note> called <hi>Sanctum San<g ref="char:EOLhyphen"/>ctorum,</hi> that is, <hi>The holieſt of all,</hi> for ſo is the Hebrew phraſe in ſtead of the ſuperlatiue, like as our Saviour is<note n="e" place="margin">1. Tim. 6.15.</note> called in holy Scripture, <hi>Rex Regum &amp; Dominus Dominantium,</hi> that is, <hi>King of Kings, and Lord of Lords,</hi> ac<g ref="char:EOLhyphen"/>cording to that dialect.</p>
+            <p>And theſe are the excellent things recorded of that houſe, wherevnto as this our Prophet no doubt had ſpecial reference here in theſe words, ſo they may ſerue vs as a draught in ſome ſort to knowe what manner of houſe this was. There are that<note n="f" place="margin">Ioſeph. An<g ref="char:EOLhyphen"/>tiq. l. <hi>3.</hi> c. <hi>8.</hi>
+               </note> com<g ref="char:EOLhyphen"/>pare
+<pb n="18" facs="tcp:177161:17"/> this houſe to this great world wherein we liue, for it being devided ſay they into three parts the <hi>Outward</hi> Court, the <hi>Inward,</hi> and the <hi>Sanctuarie:</hi> two of them ſignifie the <hi>Earth,</hi> &amp; the <hi>Sea,</hi> wherein al kind of creatures are, and ſuch were the <hi>Outward</hi> and <hi>In<g ref="char:EOLhyphen"/>ward</hi> Court: the third part which was the <hi>Sanctuarie</hi> ſignifies <hi>Heaven</hi> ſay they which was reſerved for God a<g ref="char:EOLhyphen"/>lone in like ſort as the <hi>Heaven</hi> is not to be come vnto by men. In my con<g ref="char:EOLunhyphen"/>ceit it may more fitly bee compared to the little world of man, as man in holy<note n="g" place="margin">Theſſ. 5.23.</note> Scripture is ſaid to haue a <hi>Bo<g ref="char:EOLhyphen"/>dy,</hi> a <hi>Soule,</hi> and a <hi>Spirit:</hi> the <hi>Soule</hi> being taken as<note n="h" place="margin">Dicitur a<g ref="char:EOLhyphen"/>nima dum <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>getat, ſpi<g ref="char:EOLhyphen"/>ritu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> dum co<g ref="char:cmbAbbrStroke">̄</g>templatur. Aug de Sp. &amp; Anim. l. <hi>1</hi> c. <hi>13.</hi>
+               </note> ſometime it is for the will &amp; affections, the <hi>Spirit</hi> for the vnder<g ref="char:EOLhyphen"/>ſtanding. Firſt then concerning the <hi>Tabernacle,</hi> that J reſemble to the <hi>Bo<g ref="char:EOLhyphen"/>dy,</hi> my reaſon is, for that ſo ofte<g ref="char:cmbAbbrStroke">̄</g>times in holy<note n="i" place="margin">2. Cor. 5.4 2. Pet. 1.13. 2. Pet. 1.14.</note> writ we find this <hi>Body</hi> of ours reſembled to a <hi>Tabernacle.</hi> In this <hi>Bo<g ref="char:EOLhyphen"/>dy</hi> is a <hi>Soule,</hi> and in that <hi>Tabernacle</hi> an
+<pb n="19" facs="tcp:177161:17"/>
+               <note n="k" place="margin">Exod. 40 3.</note> 
+               <hi>Arke,</hi> which <hi>Arke</hi> containing prin<g ref="char:EOLhyphen"/>cipally the <hi>Two Tables of ſtone</hi> the ten Commandeme<g ref="char:cmbAbbrStroke">̄</g>ts, what may we bet<g ref="char:EOLhyphen"/>ter reſemble them vnto then to the will and affections over which they beare the ſway. The <hi>Sanctuarie</hi> I may wel reſemble vnto the <hi>Vnderſtanding,</hi> though as the chiefeſt roome in this houſe it paſſed indeed all vnderſtan<g ref="char:EOLhyphen"/>ding. Nor may it ſeeme ſtrange that the <hi>Temple</hi> here ſhould thus be com<g ref="char:EOLhyphen"/>pared vnto man, ſeeing man ſo often times in holy Scripture is called the <hi>Temple of God. Knowe ye not</hi>
+               <note n="l" place="margin">1. Cor. 3.16.</note> ſaith the Apoſtle, <hi>that ye are the Temple of God, and that the ſpirit of God dwelleth in you? If any man deſtroy the Temple of God him ſhall God deſtroy, for the Tem<g ref="char:EOLhyphen"/>ple of God is holy which ye are.</hi> And a<g ref="char:EOLhyphen"/>gaine in another<note n="m" place="margin">2. Cor. 6.16.</note> place, <hi>ye are the Temple of the living God:</hi> wherevpon <hi>Tertullian</hi> very elegantly, <hi>Being all of vs,</hi>
+               <note n="n" place="margin">Tertul. de cultu Fam. Eius templi Aeditu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, &amp; Antiſtes P<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>dicitia eſt.</note> ſaith he, <hi>the Temple of God, the P<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rſon &amp; Prelate of that Church is Cha<g ref="char:EOLhyphen"/>ſtitie,
+<pb n="20" facs="tcp:177161:18"/> which will not ſuffer any vncleane or prophane thing to be brought into it, leaſt that God that doth inhabit it ſhould vtterly leaue the place by reaſon of ſuch pollution.</hi> But thus much of his houſe. Now let vs ſee what it is to dwell in it, <hi>Even that I may dwell in the houſe of the Lord.</hi>
+            </p>
+            <p>
+               <hi>Hannah</hi> the mother of <hi>Samuel</hi> whe<g ref="char:cmbAbbrStroke">̄</g> ſhee had beene long barren, &amp; it was often caſt her in the teeth, ſhe vowed a vow &amp;<note n="o" place="margin">1. Sa<g ref="char:cmbAbbrStroke">̄</g>. 1.11</note> ſaid, <hi>O Lord of hoſts, if thou wilt look on the trouble of thy handmaid, and remember mee, and not forget thy handmaid, but giue vnto thy handmaid a man child, the<g ref="char:cmbAbbrStroke">̄</g> will I giue him vnto the Lord all the daies of his life, &amp; there ſhall no raiſer come vpon his head.</hi> Her mea<g ref="char:EOLhyphen"/>ning was that he ſhould be brought vp in the houſe of the Lord in <hi>Shiloh,</hi> there to do the Lord that ſervice that <hi>Eli</hi> the Governor ſhould enioin him. Al things hapning to her deſires, that is the Lord <hi>looking</hi> on her trouble, &amp;
+<pb n="21" facs="tcp:177161:18"/> 
+               <hi>remembring,</hi> and <hi>not forgetting</hi> her, &amp; <hi>giving</hi> vnto her a man childe indeed, ſhee gaue him indeed vnto the Lord, he became a <hi>Nazarite,</hi> and a <hi>Levite,</hi> and dwelt in the houſe of the Lord al the daies of his life. But this is not the dwelling here meant in this place. This kinde of dwelling was for Pro<g ref="char:EOLhyphen"/>phets indeed, and for the Children of the Prophets, howbeit <hi>Dauid</hi> though he were a Prophet, yet had he beſides an other calling, and by reaſon of that calling coulde not thus dwell in this houſe. The dwelling then that <hi>David</hi> meant was in all publike aſſemblies both at Morning and Evening Sacri<g ref="char:EOLhyphen"/>fice <hi>to tender his preſence</hi> to the Lord, <hi>to ſort</hi> himſelf with thoſe who<note n="p" place="margin">Pſ. 121.1</note> glad<g ref="char:EOLhyphen"/>ded him ſo much when as they ſaid vnto him <hi>we will goe into the houſe of the Lord, to</hi> be <hi>alwaies</hi> praiſing of the Lord in thoſe Aſſemblies accor<g ref="char:EOLhyphen"/>ding vnto that in an other of his Pſalmes,<note n="q" place="margin">Pſ. 84 4.</note> 
+               <hi>Bleſſed are they that dwell in
+<pb n="22" facs="tcp:177161:19"/> thy houſe they will bee alwaie praiſing thee.</hi> And this becauſe he coulde not now perfourme by reaſon of his ba<g ref="char:EOLhyphen"/>niſhment how dry was his ſoul with<g ref="char:EOLhyphen"/>in him, &amp; what bitter moane doth he make,<note n="r" place="margin">Pſa. 42.2.</note> 
+               <hi>My ſoule</hi> ſaith he <hi>is a thirſt for God, yea even for the liuing God, when ſhall I come to appeare before the preſence of God?</hi> I, for his baniſhme<g ref="char:cmbAbbrStroke">̄</g>t had bereſt him of the exceeding ſolace he there took, he prefers before himſelf thoſe very fowles of the heaven, before which our<note n="ſ" place="margin">Mat. 10.31.</note> Saviour in another caſe woulde haue preferred him ſo much, <hi>The Sparrow</hi>
+               <note n="t" place="margin">Pſa. 84.3.</note> ſaith he <hi>hath found her a houſe, and the ſwallow a neſt where ſhee may lay her yong, even thy altars O Lord of hoſtes, my king, and my God.</hi> I know there are of the<note n="u" place="margin">Calvin &amp; Tremell in hunc loc.</note> Interpreters that take theſe words otherwiſe, but ſince our Church thus readeth them<g ref="char:punc">▪</g> I for my part am co<g ref="char:cmbAbbrStroke">̄</g>tented in this caſe not to vary from the Church. But to re<g ref="char:EOLhyphen"/>turne vnto my purpoſe.</p>
+            <pb n="23" facs="tcp:177161:19"/>
+            <p>To approach continually then vn<g ref="char:EOLhyphen"/>to the Temple, and thither continual<g ref="char:EOLhyphen"/>ly to repaire was the dwelling no doubt here meant; to dwell, to reſide continually there, not to come for a ſpurt, or a fit, as you heard this word <hi>Dwelling</hi> deſcanted vpon by<note n="c" place="margin">M<hi rend="sup">r</hi> Doct. King. Vice-chancelor of Oxford and De<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ne of Chriſt-ch. in a latin Sermon at the begin<g ref="char:EOLhyphen"/>ning of the Tearme, vpon Pſ <hi>91.1</hi>
+               </note> one of the worthieſt amongſt vs in another dialect not long ago. And thus dwelt <hi>Anna</hi> here the daughter of <hi>Phanuel,</hi> who is ſaid in the ſeco<g ref="char:cmbAbbrStroke">̄</g>d of<note n="x" place="margin">Luk. 2.37</note> 
+               <hi>Luke</hi> for the ſpace of foureſcore and foure yeares not to haue gone out of the Temple; <hi>not that ſhe was there alwaies, but often</hi> ſaith<note n="y" place="margin">Lyra &amp; Beda in hu<g ref="char:cmbAbbrStroke">̄</g>c loc.</note> 
+               <hi>Lyra,</hi> and venerable <hi>Bede</hi> to the ſame purpoſe, <hi>not that ſhee was never abſent no not an howre, but for that ſhe was often in the Temple.</hi> And the ſame <hi>S. Luke</hi> ſpeaking of our Savi<g ref="char:EOLhyphen"/>ours diſciples after they had ſeen him aſcended into heaven, <hi>They returned</hi>
+               <note n="z" place="margin">Luk 24.52.</note> ſaith he <hi>to Ieruſalem with great ioy &amp; were continually in the Temple praiſing and landing God.</hi> Thus <hi>S. Auſtens</hi> mo<g ref="char:EOLhyphen"/>ther
+<pb n="24" facs="tcp:177161:20"/> in her time to might be ſaid to dwell in Gods houſe, wherevnto ſh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> came ſo duely and truely twiſe a daie, <hi>that ſhee in thy Scriptures</hi>
+               <note n="a" place="margin">A<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>g. Con<g ref="char:EOLhyphen"/>feſſ. l. <hi>5.</hi> c. <hi>9.</hi>
+               </note> ſaith <hi>S. Au<g ref="char:EOLhyphen"/>ſten, might heare O God what thou ſaidſt to her, and thou in her praiers what ſhee ſaid to thee.</hi> In a word, ſuch were the Chriſtians the ſame <hi>S. Auſten</hi> ſpeaks of in another place whom he calleth the <hi>Emmets of God, Behold the Emmet of God</hi>
+               <note n="b" place="margin">Aug. in Pſal. <hi>66.</hi>
+               </note> ſaith he <hi>it riſeth early every daie, it runneth to Gods Church, it there pray<g ref="char:EOLhyphen"/>eth, it heareth the Leſſon read, it ſin<g ref="char:EOLhyphen"/>geth a Pſalme, it ruminateth what it hea<g ref="char:EOLhyphen"/>reth, it meditateth therevpon, and hour<g ref="char:EOLhyphen"/>deth vp within it ſelfe the precious corne gathered from that barne flowre.</hi> And thus much for the dwelling here, now concerning the conveniency of dwelling in this place in as much as he deſired it for tearme of life. <hi>All the daies of my life.</hi>
+            </p>
+            <p>Many and manifolde are the cares that are taken by mortall men con<g ref="char:EOLhyphen"/>cerning
+<pb n="25" facs="tcp:177161:20"/> their habitations if ſo be they haue purſe-opportunity either to pur<g ref="char:EOLunhyphen"/>chaſe, or to rent them. Some like the City beſt, ſome the<note n="c" place="margin">Horat. E<g ref="char:EOLhyphen"/>piſt. l <hi>1.</hi> Ad Fuſcum. Virg. Georg. l. <hi>2.</hi>
+               </note> Country, ſome one<note n="d" place="margin">Hor Carus l. <hi>1.</hi> Od. <hi>7:</hi>
+               </note> Coaſt, ſome an other, and yet when all comes to all, nor City, nor Coaſt, nor Cou<g ref="char:cmbAbbrStroke">̄</g>trey whatſoever that continually can content them. Varie<g ref="char:EOLhyphen"/>ty of houſes in every age hath been a great ſalue for this ſoare, that as he<note n="e" place="margin">Terent. Eu<g ref="char:EOLunhyphen"/>nuch. Act. <hi>5.</hi> ſc. <hi>6.</hi>
+               </note> ſaid in the Comedie <hi>when they are wearie of one houſe they may preſentlie walke vnto another.</hi> Even Princes the<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>ſelues haue this variety how well ac<g ref="char:EOLhyphen"/>co<g ref="char:cmbAbbrStroke">̄</g>modated ſoeuer their Pallaces be, and no houſe of theirs ſo gorgeous, ſo glorious whatſoever, but ſhould they be tyed vnto it continually, it would ſeeme a Priſon rather then a Pallace. It ſeemes it was not ſo with the Lordes houſe in this place, for a Prince here is ſo deſirous to liue therein continually, as that he wiſhed there to dwell all the daies of his life:
+<pb n="26" facs="tcp:177161:21"/> and therefore in one of his Pſalmes, <hi>I will dwell</hi>
+               <note n="f" place="margin">Pſa. 23 6.</note> ſaith he <hi>in the houſe of the Lord for ever,</hi> and againe in another<note n="g" place="margin">Pſa. 61.4.</note> place, <hi>I will dwell for ever in thy Ta<g ref="char:EOLhyphen"/>bernacle,</hi> He could haue beene con<g ref="char:EOLhyphen"/>tented it ſeems to haue ſet vp his reſt there, like as the Lord<note n="h" place="margin">Pſ. 132.15</note> ſpeakes of Si<g ref="char:EOLhyphen"/>on, <hi>This ſhalbe my reſt for ever here will I dwell for I haue a delight therein.</hi> This it was in effect that <hi>Zacharias Iohn Baptiſts</hi> father did aime at long after whe<g ref="char:cmbAbbrStroke">̄</g> ſpeaking of the effect of our re<g ref="char:EOLhyphen"/>demption by our Saviour, <hi>that we</hi>
+               <note n="i" place="margin">Luk 11.74</note> ſaith he <hi>being delivered out of the ha<g ref="char:cmbAbbrStroke">̄</g>ds of our enemies might ſerue him without feare in holineſſe and righteouſneſſe be<g ref="char:EOLhyphen"/>fore him all the daies of our life.</hi> And here Beloved let vs admire the greate goodneſſe of our God and his excee<g ref="char:EOLhyphen"/>ding mercy towards vs, who ſpeaking to vs when time was in ſo great an<g ref="char:EOLhyphen"/>ger and indignation,<note n="k" place="margin">Gen. 3.17</note> 
+               <hi>Curſed is the earth for thy ſake: in ſorrow ſhalt thou eate of it all the daies of they life</hi> (for in
+<pb n="27" facs="tcp:177161:21"/> that he ſpake it to our firſt father <hi>A<g ref="char:EOLhyphen"/>dam</hi> he ſpake it to vs to) doth ſweeten as it were this curſe againe by taking vs into his owne ſervice, and in that ſervice to remaine with him all the daies of our life. Wherein what doe we elſe but even ſet at his owne table, either as<note n="l" place="margin">1. Sam. 20 27.</note> 
+               <hi>David</hi> did at <hi>Sauls,</hi> or<note n="m" place="margin">2. Sam. 9 7.</note> 
+               <hi>Me<g ref="char:EOLhyphen"/>phiboſheth</hi> at <hi>Davids.</hi> It was a vaine hope of <hi>Lamech</hi> therefore who vpon the birth of <hi>Noah</hi> his ſonne, <hi>this ſonne</hi>
+               <note n="n" place="margin">Gen 5.29.</note> ſaith he <hi>ſhall comfort vs as touching the earth which the Lord hath curſed:</hi> it is the ſonne of God only that ſo can do, and ſo ſhall it be done vnto vs if ſo be we endevour to ſerue him all the daies of our life. I end this point with the words of <hi>Peter</hi> which he ſpake vn<g ref="char:EOLhyphen"/>to our Saviour, ſomewhat vnadviſed<g ref="char:EOLhyphen"/>lie I confeſſe in the caſe he then ſpake them but for our purpoſe very fitly, <hi>Maſter</hi>
+               <note n="o" place="margin">Mat. 17.4</note> ſaith <hi>Peter it is good for vs to be here,</hi> right ſo ſay I, it is good indeed for vs to be here, and therefore let vs
+<pb n="28" facs="tcp:177161:22"/> here be all the daies of our life. And thus much of the Matter of the Pro<g ref="char:EOLhyphen"/>phets Petition here, now as touching the Maner of making it which I told you was in theſe words, <hi>On thing haue I deſired of the Lord which I will require,</hi> wherein I conſider theſe points: <hi>firſt</hi> that he made it his <hi>Chiefe Deſire</hi> and that in theſe words, <hi>One thing haue I deſired: ſecondly,</hi> his <hi>Conſtancie</hi> in it &amp; that in theſe, <hi>I deſired of the Lord:</hi> not I deſired of thee o <hi>Lord</hi> as if he had ſpo<g ref="char:EOLunhyphen"/>ken it in private, but I deſired of the Lord in the third perſon, and there<g ref="char:EOLhyphen"/>fore ſpeaking no doubt to others, e<g ref="char:EOLhyphen"/>ven to all who ſhould ever haue the pervſing of this Pſalme. And of each of theſe in their order, and firſt of making it his <hi>Chiefe Deſire, One thing haue I deſired.</hi>
+            </p>
+            <p>
+               <hi>Davids</hi> deſire for it was <hi>One thing</hi> here, is not ſo to be vnderſtood as if it therfore were but <hi>One,</hi> or the only thing he did deſire. This very Pſalme
+<pb n="29" facs="tcp:177161:22"/> diſpelleth that conceite for there are even in this Pſalme diverſe and ſundry deſires beſides: as <hi>firſt</hi> to haue<note n="p" place="margin">Pſa. 27.7.</note> mer<g ref="char:EOLhyphen"/>cie vpon him, and to forgiue him; <hi>ſe<g ref="char:EOLhyphen"/>condly,</hi> not to<note n="q" place="margin">v. 9.</note> hide his face fro<g ref="char:cmbAbbrStroke">̄</g> him: <hi>thirdly,</hi> to<note n="r" place="margin">v. 11.</note> illighten his vnderſta<g ref="char:cmbAbbrStroke">̄</g>ding that he might tread his waies aright: <hi>fourthly,</hi> to<note n="ſ" place="margin">v. 12.</note> deliuer him from the ma<g ref="char:EOLhyphen"/>lice and malitiouſnes of his Adverſa<g ref="char:EOLhyphen"/>ries: over and aboue a thouſand de<g ref="char:EOLhyphen"/>ſires and petitions beſides, both in this his booke of <hi>Pſalmes,</hi> in the book of <hi>Samuel<g ref="char:punc">▪</g>
+               </hi> and els where. It is nor therefore to be ſaid of this <hi>One</hi> as ſpeaks the Apoſtle to the<note n="t" place="margin">Eph. 4.4.</note> 
+               <hi>Epheſians,</hi> of <hi>one body; one ſpirit, one hope of our vocation,</hi> or in the words immediatly following,<note place="margin">V. 5.</note> 
+               <hi>one Lord, one Faith, one Baptiſme;</hi> or as it was ſaid of our Savi<g ref="char:EOLhyphen"/>ours coate that it could not haue bin <hi>Tunioa</hi> vnleſſe it had beene<note n="c" place="margin">D. Playfers Pathway to Perfection pag. <hi>130.</hi>
+               </note> 
+               <hi>Vnica,</hi> that is, one or els none; or, as <hi>Ruffinus</hi>
+               <note n="x" place="margin">Cypr. in. Symb. ſine Ruffinus.</note> ſpeakes of that Sonne in the firma<g ref="char:EOLhyphen"/>ment which is ſo only one that there
+<pb n="30" facs="tcp:177161:23"/> cannot be another, or a third to beare him company:<note place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> vel <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ddi <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> poſſit.</note> no it is not ſuch a one, the meaning therfore is that he prin<g ref="char:EOLhyphen"/>cipally deſired this one thing, that he ſpecially &amp; chiefly would require it, like as our Saviour<note n="y" place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. 20.<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.</note> ſaith of <hi>Maries</hi> choice <hi>One thing is needfull: Mary hath choſen the good part,</hi> and yet was <hi>Mar<g ref="char:EOLhyphen"/>tha</hi> her ſiſter to haue a childs part to. For if ſo be a cup of cold water onely give<g ref="char:cmbAbbrStroke">̄</g> to one of our Saviors little ones in the name of a Diſciple ſhoulde not looſe a<note n="z" place="margin">Mat. 10.<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.</note> reward, how great a reward was hers to bee that gaue ſo great en<g ref="char:EOLhyphen"/>tertainement to our Savior and that in the name of a Saviour to? For that ſhee beleeved in him now it is more then manifeſt, in reſpect her Brother <hi>Lazarus</hi> had now beene<note n="a" place="margin">Ioh. 12.2.</note> raiſed from the dead. But thus much briefly for the emine<g ref="char:cmbAbbrStroke">̄</g>cie of the Prophets de<g ref="char:EOLhyphen"/>ſire here in this place. Shall we now ſee his conſtancy in it? Or was it with him as with the Poet,<note n="b" place="margin">Horat. Ep. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <hi>1.</hi> ep. <hi>1.</hi>
+               </note> 
+               <hi>quod petijt ſpor<g ref="char:EOLhyphen"/>nit,</hi>
+               <pb n="31" facs="tcp:177161:23"/> was the winde afterwards in ano<g ref="char:EOLhyphen"/>ther quarter? No, in no wiſe, &amp; there<g ref="char:EOLhyphen"/>fore to the preterperfectence he ad<g ref="char:EOLhyphen"/>deth the future here, <hi>which I will re<g ref="char:EOLhyphen"/>quire:</hi>
+               <note n="c" place="margin">Virg. Aen. l <hi>4.</hi>
+               </note> 
+               <hi>Mens immota manet,</hi> his minde was ſtedfaſt, it was like Queene <hi>Eli<g ref="char:EOLhyphen"/>zabeths Semper eadem,</hi> Ever and never but the ſame. <hi>Which I will require.</hi>
+            </p>
+            <p>It was our Saviours queſtion con<g ref="char:EOLhyphen"/>cerning the<note n="d" place="margin">Mat. 11.7</note> Baptiſt <hi>what went ye out into the wilderneſſe to ſee? A reed ſha<g ref="char:EOLhyphen"/>ken with the wind?</hi> And <hi>what</hi>
+               <note n="e" place="margin">Greg. in Evang Hom <hi>6.</hi>
+               </note> ſaith <hi>S. Gregorie is vnderſtood by this reed, but only a carnall minde which accordinglie or as it is hoyſed vp by favour, or by ſlan<g ref="char:EOLhyphen"/>der depreſsed downe, yeeldes preſentlie it ſelfe or to the one or to the other.</hi> The author of the imperfect worke vpon <hi>Matthew</hi> giues the reaſon, <hi>A reed</hi>
+               <note n="f" place="margin">Chriſ. Ob. Imperſ. in Mat. Hom. <hi>26.</hi>
+               </note> ſaith he, <hi>is a voide and emptie thing, having in it nor ſtrength, nor vigor, &amp; therefore is it driven with every winde, right ſo a carnall man</hi> ſaith he <hi>that hath no pith of faith within him, no ſtrength
+<pb n="32" facs="tcp:177161:24"/> nor vertue of trueth whatſoever temp<g ref="char:EOLhyphen"/>tation comes vpon him, it not only bru<g ref="char:EOLhyphen"/>ſeth, but breakes him to.</hi> The Baptiſt by our Saviours teſtimony was no vegi<g ref="char:EOLhyphen"/>table of this nature, he was a huge high oke rather as<note n="g" place="margin">Et quantu<g ref="char:cmbAbbrStroke">̄</g> v<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rtice ad auras Aethe<g ref="char:EOLunhyphen"/>reas tantum radice in tar<g ref="char:EOLhyphen"/>tara tendens Virg. Aen. l <hi>4.</hi>
+               </note> deep in the root as he was high too, able to withſtand any tempeſt whatſoever. And as it was with <hi>Iohn</hi> the Baptiſt ſo was it before with this our Prophet, whom no adverſitie could driue from the loue he bare to this houſe. He was affected it ſeemes to this deſire as was<note n="h" place="margin">Cic. de Clar Orat. &amp; de Orat. &amp; Orat ad Brut.</note> 
+               <hi>Demoſthenes</hi> to <hi>Action,</hi> or S. <hi>Au<g ref="char:EOLhyphen"/>ſten</hi> to <hi>Humilitie,</hi> he giues it the firſt and ſecond, and third place too, he hath and will deſire it.<note n="i" place="margin">Aug. ep. <hi>56</hi>
+               </note> For as the lear<g ref="char:EOLhyphen"/>ned<note n="k" place="margin">Barth. Tra<g ref="char:EOLunhyphen"/>heron vpon Iohn. <hi>Ioh. 1.15. &amp;</hi> v. <hi>30.</hi>
+               </note> Interpreters gather of thoſe words of <hi>Iohn</hi> the Baptiſt, <hi>This is he of whome I ſpake,</hi> that he had before made many Sermons concerning <hi>Ie<g ref="char:EOLhyphen"/>ſus,</hi> ſo in that the Prophet here ſaith, <hi>One thing haue I deſired,</hi> it may proba<g ref="char:EOLhyphen"/>bly be gathered that he had deſired it
+<pb n="33" facs="tcp:177161:24"/> often times before, ſo that he is no<g ref="char:EOLhyphen"/>thing like the inconſtant man. <hi>The in<g ref="char:EOLhyphen"/>conſtant man,</hi>
+               <note place="margin">D. Hals Ch<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ract. l. <hi>2.</hi>
+               </note> ſaith a worthy writer of our age, <hi>treads vpon a moving earth and keepes no <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ace. It is a wonder if his loue or hatred laſt ſo many daies as a won<g ref="char:EOLunhyphen"/>der. His heart is the Inne of all good moti<g ref="char:EOLhyphen"/>ons, wherein if they lodge for a night it is well, by morning they are gone, and take no leaue, and if they come that way againe they are entertained as Gueſts not as Friends.</hi> It was not thus with this our Prophet, <hi>He</hi> was like the round world rather even ſo ſure that he could not not be<note n="m" place="margin">
+                  <hi>Pſ.</hi> 93.2.</note> moued: <hi>He</hi> was like thoſe heavenly Orbs aboue that keepe an<note n="n" place="margin">Ariſt de Col. l. <hi>2.</hi> c. <hi>6.</hi>
+               </note> vniforme courſe and ſtation: in a word, <hi>He</hi> was like vnto his Patterne whoſe image he was, the eternal <hi>God,</hi> of whome it is ſaid in <hi>Malachy, I am the Lord. I change not, Malachy</hi> the third at the ſixt verſ. And this was the Prophets Conſtancy, a vertue ſo ver<g ref="char:EOLhyphen"/>tuous, that as it was ſaid of the <hi>Sto<g ref="char:EOLhyphen"/>icks</hi>
+               <pb n="34" facs="tcp:177161:25"/> that they were <hi>Mares Philoſopho<g ref="char:EOLhyphen"/>rum,</hi> the <hi>Male Philoſophers</hi> of all the reſt (but it was ſaid but by a<note n="o" place="margin">Sen. Quod in Sapient. no<g ref="char:cmbAbbrStroke">̄</g> cadit iniur<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:punc">▪</g>
+               </note> 
+               <hi>Stoicke</hi>) ſo no vertue without this vertue but is as it were a Widdow.</p>
+            <q>
+               <note n="p" place="margin">M. D. Eeds his Iter Bore<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>.</note>Viduata Philemone Baucis,</q>
+            <p>one that hath loſt her true <hi>Philemon</hi> indeed. Witneſſe the three <hi>Theologi<g ref="char:EOLhyphen"/>call</hi> Vertues, <hi>Faith, Hope,</hi> and <hi>Charitie,</hi> and what are they without this Con<g ref="char:EOLhyphen"/>ſtancie? Witneſſe the foure Vertues<note n="q" place="margin">Quae quaſi origines &amp; cardines ſunt amnium Vir<g ref="char:EOLunhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>urum. Aug. de Spir. &amp; anim. l <hi>1.</hi> c. <hi>4</hi>
+               </note> 
+               <hi>Cardinal, Iuſtice, Prudence, Tempe<g ref="char:EOLhyphen"/>rance,</hi> and <hi>Fortitude,</hi> &amp; without Con<g ref="char:EOLhyphen"/>ſtancie what are they? The <hi>Intellectu<g ref="char:EOLhyphen"/>all</hi> and <hi>Morall</hi> Vertues are as <hi>Thomas</hi>
+               <note n="r" place="margin">Th. Aquin. <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 2<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. in P<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>l.</note> 
+               <hi>Aquinas</hi> tels vs reduced to theſe ſeaven<g ref="char:punc">▪</g> &amp; therefore if theſe without Conſtancy are no more, no more are they. Nay are they not harmefull ra<g ref="char:EOLhyphen"/>ther,<note n="ſ" place="margin">2. Pet. 2.21</note> ſure I am S<hi rend="sup">t</hi> 
+               <hi>Peter</hi> ſaith tha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>bet<g ref="char:EOLhyphen"/>ter it were not to haue knowne the waie of righteouſneſſe, then after we haue knowne it to turne from the Commande<g ref="char:EOLhyphen"/>ment giuen vnto vs.</hi> Howbeit h<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e
+<pb n="35" facs="tcp:177161:25"/> we muſt haue ſpeciall care that we take not <hi>Quid pro Quo,</hi> one for ano<g ref="char:EOLhyphen"/>ther as many doe. It is eaſily done, and often, &amp; never more ofte<g ref="char:cmbAbbrStroke">̄</g> then now a daies. <hi>The Paſtor of ſouls,</hi>
+               <note place="margin">Greg. Paſt. Cur. Part. <hi>2.</hi> c. <hi>9.</hi>
+               </note> ſaith S<hi rend="sup">t</hi> 
+               <hi>Gre<g ref="char:EOLhyphen"/>gory, is to knowe</hi> (&amp; ſo is the Flock to) <hi>that vices a many times doe heare them<g ref="char:EOLhyphen"/>ſelues as vertues. Thus Covetouſneſse cloaks it ſelfe vnder the name of Thrift and Parſimony, and contrariwiſe riotous ſpending vnder the name of Liberality. To much pitty a many times is thought to be Pietie, and vnbridled Anger the vertue of Zeale. A headlong Action is accounted quick diſpatch, and to be to too tardy in performing ought a high point of ſingular wiſdome.</hi> The vice that beares it ſelfe as the vertue of Con<g ref="char:EOLhyphen"/>ſtancie, no vice any vertue more, is the vice of <hi>Selfe will</hi> and <hi>Obſtinacie,</hi> a ſowre and a ſullen vice, &amp; that which hath blaſted ſo many hundreds of our age both on the right hand of vs, and on the left, <hi>Schiſmaticks</hi> and <hi>Papiſts.</hi>
+               <pb n="36" facs="tcp:177161:26"/> But vtterly to avoid this mocke ver<g ref="char:EOLhyphen"/>tue, this<note n="u" place="margin">Virg. Aen. l. <hi>7.</hi>
+               </note> 
+               <hi>Alecto</hi> in deed in anothers likeneſſe, the ſafeſt and ſureſt way, is to haue good ground for what we doe, not a particular ſpirit with the one, or the Religion of our Fathers, and Mothers, and Forefathers with the other. <hi>It is a good thing,</hi>
+               <note n="c" place="margin">Gal. 4.18.</note> ſaith the Apoſtle, <hi>to loue earneſtly alwaies in a good thing.</hi> And this good ground the Prophet had, the Law of the Lord was his direction, and for he was ſo ſtable and ſtedfaſt in the ſame, the ver<g ref="char:EOLhyphen"/>tue which he had was not vice in ver<g ref="char:EOLhyphen"/>tues robes, it was vertues owne ſelfe the vertue of Conſtancie. And thus much of his <hi>Conſtancie</hi> in this his de<g ref="char:EOLhyphen"/>ſire, come we now to the <hi>Manifeſta<g ref="char:EOLhyphen"/>tion of this his deſire to the world</hi> which I told you was in theſe words, <hi>I deſired of the Lord.</hi>
+            </p>
+            <p>There is a peece of a verſe in <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>id</hi> more canonicall with a many, <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e I am more powerfull then all the ver<g ref="char:EOLhyphen"/>ſes
+<pb n="37" facs="tcp:177161:26"/> or chapters either concerning the contrary throughout the whole Bi<g ref="char:EOLhyphen"/>ble;
+<q>
+                  <note n="x" place="margin">Ovid. Triſt l. <hi>3.</hi> Eleg. <hi>4.</hi>
+                  </note>Benè qui latuit, benè vixit.</q> 
+               <hi>He that lurks well, liues well,</hi> as if the Lord had ſent vs into the worlde to play all hid. I grant the times may be ſuch as may cauſe vs to betake our ſelues to ſuch a kind of retired life, or to play leaſt in the worlds ſight, even as thoſe Chriſtians of olde time, of whom the Apoſtle to the<note n="y" place="margin">Heb. 11.38.</note> 
+               <hi>Hebrews, They wandred in wilderneſſes, &amp; moun<g ref="char:EOLhyphen"/>taines, and dens, and caues of the earth:</hi> but to do it now in theſe daies, or to keepe our Conſciences to our ſelues, or not at al to imploy the Tale<g ref="char:cmbAbbrStroke">̄</g>ts that God hath committed to our charge, is vngratefully to liken theſe times to the tickliſh times of <hi>Nero,</hi> wherein <hi>ſloth</hi>
+               <note n="z" place="margin">Tacit. vit. Agric.</note> ſaith <hi>Tacitus was a vertue<g ref="char:punc">▪</g> and to doe nothing the greateſt wiſdome of all.</hi> Such wyzards in the end wil play but wyly beguily with themſelues, who
+<pb n="38" facs="tcp:177161:27"/> while they <hi>proceed in ſilence</hi> as<note n="a" place="margin">Qui dum iuuenes ad ſe <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ctutem, ſe<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es propè ad ipſos exactae <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tatis termi<g ref="char:EOLhyphen"/>nos per ſilen<g ref="char:EOLhyphen"/>tium veniu<g ref="char:cmbAbbrStroke">̄</g>t. Tac. Ib.</note> ſpeaks the ſame author <hi>from young men to a<g ref="char:EOLhyphen"/>ged, from aged to the graue,</hi> are like to make the next ſtep from thence to hell if ſo be they be not there before.<note n="b" place="margin">Mat. 25.30.</note> 
+               <hi>Caſt that vnprofitable ſervant into vtter darkeneſſe, there ſhalbe weeping &amp; gnaſhing of teeth.</hi> True it is, it is the <hi>Hart</hi> that God requireth for his ſer<g ref="char:EOLhyphen"/>vice, but he requires withal the <hi>To<g ref="char:cmbAbbrStroke">̄</g>gue</hi> to, &amp; if we thinke this tongue of ours is not to be imployed in publique Aſ<g ref="char:EOLhyphen"/>ſemblies as well as at hoame, let vs remember what was ſaide to <hi>Meroz</hi> by the Angel of the Lord, <hi>Curſe ye Meroz</hi>
+               <note n="c" place="margin">Iud. 5.23.</note> ſaid <hi>the Angel, curſe the in<g ref="char:EOLhyphen"/>habitants thereof, becauſe they came not to help the Lord, to help the Lord againſt the mighty.</hi> Our Prophet you ſee in this place was farre from this ſin, he proclaimed to all the world of what religion he was. He ſtucke not to tel it vnto others, &amp; to acquaint all men living with the deſire of his heart, eſ<g ref="char:EOLhyphen"/>pecially
+<pb n="39" facs="tcp:177161:27"/> al ſuch as ſhould haue or the hearing, or ſeeing, or ſinging, or ſay<g ref="char:EOLhyphen"/>ing this Pſalme. He doth<note n="d" place="margin">Perſ. ſat. <hi>2.</hi>
+               </note> 
+               <hi>Aperto vi<g ref="char:EOLhyphen"/>vere voto,</hi> he regards not who heares him, he beleeved, &amp;<note n="e" place="margin">2. Cor. 4.13.</note> therefore ſpake, he ſpake, and in ſpeaking proclaimed it to the world. And thus much of the manifeſtation of this his peti<g ref="char:EOLhyphen"/>tion to the worlde, and conſequent<g ref="char:EOLhyphen"/>ly of the Petition it ſelfe, namely of the <hi>Matter</hi> of it, as alſo the <hi>Man<g ref="char:EOLhyphen"/>ner</hi> of making it. We are now to come to the ſecond point to wit the <hi>Reaſon</hi> of this Petition, which I told you was in theſe words, <hi>To be<g ref="char:EOLhyphen"/>hold the faire beauty of the Lord, and to viſit his Temple.</hi> Wherein I thought to haue obſerved to you theſe points: <hi>Firſt,</hi> his <hi>Contemplation,</hi> and that in theſe words, <hi>To behold the faire beautie of the Lord: Secondly,</hi> his <hi>Action,</hi> &amp; that in theſe, <hi>To viſit his Temple: Thirdly,</hi> the ioining of both together &amp; that in the particle <hi>[And] To behold the
+<pb n="40" facs="tcp:177161:28"/> faire beautie of the Lord, and, to viſit his Temple.</hi> His <hi>Contemplation</hi> in reſpect of the Soule, his <hi>Action</hi> in reſpect of the Body, the <hi>Ioyning</hi> of both toge<g ref="char:EOLhyphen"/>ther in reſpect of both combind toge<g ref="char:EOLunhyphen"/>ther, Body and Soule. But this were to enter a new Ocean, a word of ex<g ref="char:EOLhyphen"/>hortation therefore and ſo God wil<g ref="char:EOLhyphen"/>ling an ende, <hi>One thing haue I deſired of the Lord &amp;c.</hi>
+            </p>
+            <p>OF all the daies in the weeke there is ſpeciall notice taken of one day as very diſmall to the <hi>Iriſh,</hi> and in a maner fatall to the<g ref="char:cmbAbbrStroke">̄</g>. This day<note n="f" place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ani<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>urſt. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o Reb. Hi<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rn. l. <hi>3.</hi>
+               </note> they ſay is <hi>Tueſday,</hi> for vpo<g ref="char:cmbAbbrStroke">̄</g> a Tueſday they loſt <hi>Limmirick,</hi> vpon a Tueſday they loſt <hi>Wexford,</hi> vpon a Tueſday they loſt <hi>Waterford,</hi> and vpo<g ref="char:cmbAbbrStroke">̄</g> a Tueſday againe they loſt <hi>Divelin.</hi> I and at a <hi>fift</hi> time too vpon a Tueſday it was, that they had a great over<g ref="char:EOLhyphen"/>throwe the Earle of <hi>Tumond</hi> that the<g ref="char:cmbAbbrStroke">̄</g> was being chiefe of all their troup<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.
+<pb n="41" facs="tcp:177161:28"/> But whatſoever may be ſaid of that day concerning the <hi>Iriſh,</hi> ſure I am that of this day a <hi>Tueſday</hi> too when<note n="g" place="margin">In the yeare of our Lord <hi>1605.</hi>
+               </note> time was, and of <hi>an other</hi> day in this Moneth, it may be ſaid of vs <hi>Engliſh,</hi> that we haue receaued two as great Bleſſings from the immediate hand of God, as ever did natio<g ref="char:cmbAbbrStroke">̄</g> in this world or ever is like to doe to the worlds ende. I mean the <hi>Beginning</hi> of Queen <hi>Elizabeths</hi> Raigne of happie memo<g ref="char:EOLhyphen"/>ry, the <hi>Seauententh</hi> of<note n="h" place="margin">In the yeare of our Lord <hi>1558.</hi>
+               </note> this Moneth, &amp; that wich this <hi>fifth</hi> day we haue ce<g ref="char:EOLhyphen"/>lebrated, the <hi>Co<g ref="char:cmbAbbrStroke">̄</g>tinuing</hi> of King <hi>Iames</hi> his. Which two daies the <hi>Seauen<g ref="char:EOLhyphen"/>tenth</hi> and <hi>Fift</hi> might they parley with one another as <hi>Plutarch</hi>
+               <note n="i" place="margin">Plut. Queſt Rom. qu. <hi>25.</hi>
+               </note> reports the <hi>Holy day</hi> and the <hi>Worky daie</hi> once did, and the <hi>Seauententh</hi> ſhould ſay as did the <hi>Holy day, vnleſſe I had been ſo happy, thou hadſt never been:</hi> how might this <hi>Fift</hi> replie agai<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, <hi>but if ſo be I had not beene, thou hadſt never beene ſo happy.</hi> For indeed had not this day beene,
+<pb n="42" facs="tcp:177161:29"/> what ſhould it haue profited vs to haue liued in proſperitie ſome <hi>fortie yeares</hi> there abouts, and at the laſt to haue beene a by-word to all the na<g ref="char:EOLhyphen"/>tio<g ref="char:cmbAbbrStroke">̄</g>s of the world. Would it not haue beene ſaid of our Land as was ſome<g ref="char:EOLhyphen"/>times of <hi>Ieruſalem,</hi> but of <hi>Ieruſalem</hi> o<g ref="char:EOLhyphen"/>verthrowne,<note n="k" place="margin">
+                  <hi>Ier. Lam.</hi> 2.15.</note> 
+               <hi>Is this the Country that men call the perfection of beauty, &amp; the ioy of the whole earth?</hi> Might not our <hi>Mother</hi> this little <hi>Iland</hi> haue ſaid,<note n="l" place="margin">
+                  <hi>Ier. Lam.</hi> 1.15.</note> 
+               <hi>The Lord hath troden vnder foot al my valiant men in the midſt of me, he hath called an Aſſembly againſt me to deſtroie my young men, the Lord hath troden the wine-preſſe vpon the Virgin the daugh<g ref="char:EOLhyphen"/>ter of England.</hi> Might not the Survi<g ref="char:EOLhyphen"/>vers of vs haue ſaid, but alas who ſhould haue ſurvived? but yet if any ſhould, might they not haue ſaid with the<note n="m" place="margin">
+                  <hi>Ier. Lam.</hi> 4.20.</note> ſame Prophet, <hi>The breath of our noſtrils, the anointed of the Lord was ta<g ref="char:EOLhyphen"/>ken in the nets, of whome we ſaid vnder his ſhadow we ſhall be preſerved?</hi> But
+<pb n="43" facs="tcp:177161:29"/> thankes be to our God, there are eve<g ref="char:cmbAbbrStroke">̄</g> in that Prophet other words which better fit vs, and may be ſaid and ſpo<g ref="char:EOLhyphen"/>ken of vs; which this our <hi>Iland</hi> may alſo ſpeake, and we the Inhabitants may ſpeak alſo,<note n="n" place="margin">
+                  <hi>Ier. Lam</hi> 3.22.</note> 
+               <hi>It is the Lords mercies that we are not conſumed, becauſe his co<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>paſsions faile not.</hi> I will ſpeake it Belo<g ref="char:EOLhyphen"/>ved againe,
+<q>
+                  <note n="o" place="margin">Virg. Aeneid. l. <hi>3.</hi>
+                  </note>Et repetens, iterum<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan>, iterum<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> monebo</q> and<note n="p" place="margin">Matt. 11.15.</note> he, that hath eares to heare let him heare, <hi>It is the Lords mercies that we are not conſumed becauſe his compaſsi<g ref="char:EOLunhyphen"/>ons faile not.</hi>
+            </p>
+            <p>Such the mercies of the Lord to<g ref="char:EOLhyphen"/>wards vs &amp; his compaſſions ſo great, what greater recompence to be made him then to performe that very thing which the Prophet in this place doth deſire, <hi>Even to dwel in the houſe of the Lord all the daies of our life.</hi> What will ye ſay in theſe Churches? or in ſuch as are inferiour vnto theſe? I, even in theſe Churches, or in ſuch
+<pb n="44" facs="tcp:177161:30"/> as are inferior vnto theſe, even where ſoever the Lord ſhall place vs, &amp; the lot of this world ſhall hereafter fall vpon vs, the meaneſt of which and re<g ref="char:EOLunhyphen"/>ſpect their beautie with the right eye of vnderſtanding in deed, and not <hi>Sa<g ref="char:EOLhyphen"/>lomons</hi> Temple in all its glory, much leſſe this <hi>Tabernacle</hi> here, arayed like one of them. For what was all they had but ſhadowes of what we doe, that Houſe in truth, and in the eye of faith, was but a Cottage vnto ours. Wherefore as<note n="q" place="margin">Hieron. ep. ad Laetam et ep. ad Salui<g ref="char:EOLhyphen"/>nom ex Tur<g ref="char:EOLhyphen"/>tull. ad Mar<g ref="char:EOLhyphen"/>tyr.</note> S<hi rend="sup">t</hi> 
+               <hi>Ierom</hi> in another caſe, <hi>Si tanti vitrum qua<g ref="char:cmbAbbrStroke">̄</g>ti margaritu<g ref="char:cmbAbbrStroke">̄</g>, If ſo be gliſſe,</hi> ſaith he, <hi>be ſo much to be eſteemed, of what eſtimation is a Pearle to be,</hi> ſo ſay I in this caſe, if this our Prophet were ſo inamored with ſo very a <hi>Glaſse</hi> as that was (I ſpeake it by way of compariſon) how ſhould we be with our Pearles, and that ſo ori<g ref="char:EOLhyphen"/>ent as ours are. Nor let me now ſeem contrary to my ſelfe for that I cal that <hi>Tabernacle</hi> a Temple of glaſſe in re<g ref="char:EOLhyphen"/>ſpect
+<pb n="45" facs="tcp:177161:30"/> of our Churches, ſeeing it is in that reſpect that I only call it ſo, as <hi>a candle in reſpect of a lampe,</hi>
+               <note n="r" place="margin">Hieron. A<g ref="char:EOLhyphen"/>pol aduerſ. Iouin.</note> ſaith S<hi rend="sup">t</hi> 
+               <hi>Ie<g ref="char:EOLhyphen"/>rom, is nothing to be accou<g ref="char:cmbAbbrStroke">̄</g>ted of, a lampe in reſpect of a ſtarre why it giues no light at all, compare the ſtarre, with the Moone and the ſtarre is obſcure, ſet the Moone, againe by the Sun, and the Moone ſhines never a whit, laſtly compare the Sun and Chriſt together,</hi> ſaith he, <hi>and what is the Sunne but meere darkneſſe:</hi> and ſo was the <hi>candle</hi> of this <hi>Tabernacle</hi> in reſpect of our <hi>Lampe,</hi> the <hi>lampe</hi> of this <hi>Taber<g ref="char:EOLhyphen"/>nacle</hi> in reſpect of our <hi>Star,</hi> the <hi>ſtarre</hi> of this <hi>Tabernacle</hi> in reſpect of our <hi>Moon,</hi> the <hi>Moone</hi> of this <hi>Tabernacle</hi> in reſpect of our <hi>Sun,</hi> in a word the <hi>Sun</hi> of this <hi>Tabernacle</hi> in reſpect of our <hi>Chriſt,</hi> or which is all one in effect our <hi>Chriſtian Congregations.</hi> And doe we yet doubt to make them our chiefe deſire? In making them our chiefe de<g ref="char:EOLhyphen"/>ſire we may happily get more by it then indeed we doe deſire. You know
+<pb n="46" facs="tcp:177161:31"/> what was ſaid to <hi>Salomon</hi> when he aſ<g ref="char:EOLhyphen"/>ked wiſdome of the Lord. <hi>Becauſe,</hi>
+               <note n="ſ" place="margin">1 <hi>King.</hi> 3.11.</note> ſaith the Lord, <hi>thou haſt asked this thing and haſt not asked for thy ſelfe long life, nor riches, nor the life of thy e<g ref="char:EOLhyphen"/>nemies, behold I haue done according to thy words, and I haue alſo given thee that which thou haſt not asked, both Ri<g ref="char:EOLhyphen"/>ches, and Honours,</hi> and ſo forth. Thus fell it out with S<hi rend="sup">t</hi> 
+               <hi>Auſtens</hi> mother too, ſhee deſired that ſhee might but ſee her Sonne a <hi>Chriſtian Catholicke</hi> before her death (marke I pray you the phraſe of thoſe times, a <hi>Chriſtian Catholike,</hi> wherevpon<note n="t" place="margin">Baron. An<g ref="char:EOLhyphen"/>nal. Tom. <hi>1.</hi> fol. <hi>310.</hi>
+               </note> 
+               <hi>Pacianus, Chri<g ref="char:EOLhyphen"/>ſtian is my name,</hi> ſaith he, <hi>Catholick my ſurname,</hi> and S<hi rend="sup">t</hi> 
+               <hi>Auſten</hi> elſewhere, <hi>by the goodneſſe of Chriſt,</hi>
+               <note n="u" place="margin">Aug. ep. <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>07.</hi>
+               </note> ſaith he, <hi>we for our pares are Chriſtian Catholickes,</hi> not the only ſtile now adaies a <hi>Catholicke Roman,</hi> or no <hi>Catholike</hi>) but ſhee but deſired to ſee him a <hi>Chriſtian Catholike</hi> before her death, <hi>and my God,</hi>
+               <note n="b" place="margin">Aug. Con<g ref="char:EOLhyphen"/>feſſ. l. <hi>9.</hi> c. <hi>10.</hi>
+               </note> faith ſhe to her Sonne <hi>S. Auſten, hath gi<g ref="char:EOLhyphen"/>ven
+<pb n="47" facs="tcp:177161:31"/> me more abundantly then I deſired, even to ſee thee his ſervant, and to con<g ref="char:EOLhyphen"/>temne all the felicitie of this world beſids.</hi> God indeed is no nigard he giues ſometimes before we aſke, ſometime more then we aske, alwaies as much, and that or in the ſame kind that we aske it, or elſe in ſome other much more behoofull and neceſſary for vs.</p>
+            <p>But we muſt be <hi>Conſtant</hi> in this de<g ref="char:EOLunhyphen"/>ſire. But alas when he that wrote of Conſtancie became<note n="x" place="margin">Iuſt. Lipſ.</note> himſelfe ſo in<g ref="char:EOLhyphen"/>conſtant, and ſo many hundreds after him as little conſtant as he, and ſome even of our owne ſelue<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> as conſtant<g ref="char:EOLhyphen"/>ly inconſtant as they, what ſhal I ſay of Conſtancy when ſo many flock-meale fall away. Beloved, I will ſay as once our Saviour ſaid<note n="y" place="margin">Ioh. 6.67</note> 
+               <hi>What will ye alſo goe away?</hi> Why but whether? Or to whom? Here are the words of life eternall:
+<q>
+                  <l>—<note n="z" place="margin">Horat. E<g ref="char:EOLhyphen"/>piſt. l. <hi>1.</hi> ep. <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> Bu<gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                           <desc>••••</desc>
+                        </gap>
+                        <g ref="char:punc">▪</g>
+                     </note> Quod quaeritis hîc eſt,</l>
+                  <l>Eſt Vlubris animas ſi vos non deficit aequu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</l>
+               </q>
+               <pb n="48" facs="tcp:177161:32"/> not the meaneſt <hi>Church</hi> in this our Land but will afford you much more comfort in the ſervice of our God, then the goodlieſt <hi>Synagogue</hi> this daie or at S. <hi>Omets,</hi> or at <hi>Rome.</hi> Nor would I haue you thinke I ſpeake altogither vnexperienced in this compariſon.</p>
+            <q>
+               <note n="a" place="margin">Virg Ae<g ref="char:EOLhyphen"/>neid. l. <hi>11.</hi>
+               </note>Vidimus o Ciues Dio<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>dem; Argi<g ref="char:EOLhyphen"/>ua<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> caſtra,</q>
+            <p>I haue ſeene Beloved; ſeene I haue, though not the Popiſh<note n="b" place="margin">Mufftie a<g ref="char:EOLhyphen"/>pud Turcas Sacerdotum ſupremus vt apud nos Rom. Pont. Buſheq. ep. <hi>1.</hi>
+               </note> 
+               <hi>Mufftie</hi> him ſelfe, yet his Pavillions and his Tents, I meane a many <hi>Aſſemblies</hi> and <hi>Con<g ref="char:EOLhyphen"/>gregations</hi> of his where I am ſure but as few words as <hi>Porpheries Praedicables</hi> with vnderſtanding; if the Apoſtle S.<note n="c" place="margin">1 Cor. 4.19.</note> 
+               <hi>Paule</hi> were not miſtaken, would to thoſe Aſſemblies haue done more good, then thoſe many thouſandes that then were vttered by ſo many <hi>Blacke Birds</hi> there, ſo many <hi>Parrets,</hi> ſo many <hi>Crowes,</hi> and <hi>Pyes,</hi> not vnder<g ref="char:EOLhyphen"/>ſtanding what they ſaide or ſung, the ſimilitudes are<note n="d" place="margin">Aug. in pſ. <hi>18.</hi> Expoſ. <hi>2</hi>
+               </note> S. <hi>Auſtens.</hi> And
+<pb n="49" facs="tcp:177161:32"/> now I haue ſaid thus much let me go a little further, and ſpeake vnto you a little more concerning thoſe our Ad<g ref="char:EOLhyphen"/>verſaries, vpon whom had I lookt with a carnall eye, I ſhould ſay I con<g ref="char:EOLhyphen"/>feſſe, as did thoſe Spies<note n="e" place="margin">Num. 13.32.</note> 
+               <hi>we be not able to hold out againſt them for they are ſtronger then we all the people that we ſ<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> there are men of great ſtature. Gy<g ref="char:EOLhyphen"/>ants they are, the ſonnes of Ana<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, and we to them but Graſhoppers.</hi> But the Lord that gaue meat that time an others gates eye to behold them with, puts another meſſage into my mouth, &amp; as a learned Divine<note n="f" place="margin">M. Goſſen in his Trum<g ref="char:EOLhyphen"/>pet. of warre, p. D. <hi>5.</hi> b.</note> ſpeakes of <hi>Caleb</hi> that <hi>he had not aſheepes eye as the other Spies, but the eye of a Lyon, and how he paſſed by that people with an honourable ſcorne:</hi> right ſo ſay I with<note n="g" place="margin">Num. 14.9.</note> 
+               <hi>Caleb, Rebel not you againſt the Lord, neither feare ye the people of that Land for they are but bread for vs, their ſhield is departed from them, and the Lord is with vs feare them not.</hi>
+            </p>
+            <pb n="50" facs="tcp:177161:33"/>
+            <p>The greater cauſe haue we to <hi>pro<g ref="char:EOLhyphen"/>claime</hi> this deſire of ours vnto the world mauger all the banded Forces of all the <hi>Romaniſts</hi> whatſoever, who what haue they Pamphletted againſt our<note n="h" place="margin">How lets <hi>9</hi> Reaſons why Catholickes may not goe to Church, an<g ref="char:EOLunhyphen"/>ſwered by D. Fulcke and M Wyburne.</note> 
+               <hi>Publique Service,</hi> or our <hi>Religi<g ref="char:EOLhyphen"/>on</hi> therein contained which hath not beene fully anſwered, or at leaſt wiſe may be, and that in the turning of a hand. Their <hi>Proofes</hi> are<note n="i" place="margin">Dormans proufe of cer<g ref="char:EOLhyphen"/>taine Articls in Religion reproued by M. Nowell.</note> repro<g ref="char:EOLhyphen"/>ved, their <hi>Diſproofes</hi> confuted, their <hi>Rockes</hi> vndermined, their<note n="m" place="margin">Stapletons Differences and Fortreſſe of the faith, anſwered by D. Fulke.</note> 
+               <hi>Fortreſſes</hi> overthrowne,<note n="k" place="margin">Dormans Diſproufe of M Nowel<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Reproufe co<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>futed by M. Nowell.</note> their<note n="n" place="margin">Heskins Parlement repe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>led by D. Fulke.</note> 
+               <hi>Parlaments</hi> re<g ref="char:EOLhyphen"/>pealed, their<note n="o" place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<g ref="char:EOLhyphen"/>ſtons Challenge anſwered by D Fulcke, and Oliver Carter.</note> 
+               <hi>Chalenges</hi> anſwered, their<note n="p" place="margin">Mar<g ref="char:EOLhyphen"/>tials Reply to M Calfeth anſwered by D Fulcke.</note> 
+               <hi>Replies</hi> reioined vnto, their<note n="q" place="margin">Harding<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Reioynder to M. Iewe, anſwered by M. Deering.</note> 
+               <hi>Reioinders</hi> diſiointed. True it is they reſt not ſatisfied, nor is it likely they ever will,<note n="l" place="margin">Sanders Rocke of the Church vn<g ref="char:EOLhyphen"/>dermined by D Fulcke.</note> 
+               <hi>Rana,</hi> ſaith S<hi rend="sup">t</hi> 
+               <hi>Auſten, eſt lo<g ref="char:EOLhyphen"/>quaciſsima vanitas,</hi> nothing ſo full of tattle as Folly, and that, ſaith he, was
+<pb n="51" facs="tcp:177161:33"/> ſignified by the Frogs of <hi>Egypt.</hi>
+            </p>
+            <p>But happy it were with vs had we in this point of <hi>Church Service</hi> the <hi>Romaniſts</hi> only our only Adverſaries. <hi>Caſsius</hi> and his Complices we could deale withall well enough, but what ſhall we doe when our own Mothers Children lift vp the heele againſt vs, and ſo vilifie our <hi>Church Service</hi> e<g ref="char:EOLhyphen"/>ſpecially in their practiſe, that vnleſſe there be a Sermon with it, we ſhall ſeldome or never haue their compa<g ref="char:EOLhyphen"/>nie.<note n="r" place="margin">2. King. 6.21.</note> 
+               <hi>Shall I ſmite them Fathers</hi> &amp; <hi>Bre<g ref="char:EOLhyphen"/>theren? ſhall I ſmite them? They are fleſh</hi> I confeſſe, <hi>of our fleſh, and bone of our bones:</hi> Why, but ſhall I let them goe then, and die in their error? that were a cruell kind of compaſſion, let their error die in them rather, <hi>Moriatur er<g ref="char:EOLhyphen"/>ror, vivat homo,</hi> ſaith S<hi rend="sup">t</hi> 
+               <hi>Auſten,</hi>
+               <note n="ſ" place="margin">Aug. de Verb. Apoſt. Ser. <hi>31.</hi>
+               </note> 
+               <hi>ſlay the error, ſaue the man.</hi> And will you the<g ref="char:cmbAbbrStroke">̄</g> behold their error? O, ſay they, vnleſſe there be Sermons, what beautie is there in our Churches? why ſhould
+<pb n="52" facs="tcp:177161:34"/> we take ſo much paines to goe fo of<g ref="char:EOLhyphen"/>ten vnto them? The <hi>Scriptures</hi> that there are read we can read our ſelues at home, we can pray thoſe <hi>Prayers</hi> at home too, haue we but the <hi>Pſalter</hi> &amp; <hi>Bible</hi> in our houſes, what beauty haue we not that there is to be had? So ſay they indeed that little knowe or what is <hi>Beautie,</hi> or what is <hi>Service,</hi> or what are <hi>Sermons,</hi> or the <hi>Miniſter</hi> of God, or intruth theſe <hi>Churches.</hi> For if ſo be they did, would they thus ſpeake? would they huddle vp together ſo many Soleciſmes? would they firſt compare their <hi>Houſes</hi> to the proper &amp; peculiar <hi>Houſe</hi> of God? themſelues vnto his <hi>Miniſters?</hi> their <hi>private pray<g ref="char:EOLhyphen"/>er</hi> to the <hi>Publicke?</hi> and debaſe <hi>Publicke Prayer</hi> ſo much as to make it ſo much inferiour vnto <hi>Sermons?</hi> why what o<g ref="char:EOLhyphen"/>ther Goſpell preach our Sermons then that which our Service delivers to them? If in their own houſe where<note n="t" place="margin">Mat. 18.20.</note> but two or three be gathered toge<g ref="char:EOLhyphen"/>ther,
+<pb n="53" facs="tcp:177161:34"/> the Lord (it may be) is in the midſt, how much more when we are ſuch troups &amp; multitudes in Church Aſſemblies? when we there ſet by<note n="u" place="margin">Marc. 6.40.</note> rowes, by hundreds, and by fifties? If he or ſhe may compare themſelus, I, their very Children to the Prieſt, or Miniſter, becauſe they can read aſwell as he, ſo many a Butcher among the Iewes was as able as the Prieſt him<g ref="char:EOLhyphen"/>ſelfe to haue killed a Calfe, or an Ox, and was it as lawfull therefore and fit for him to haue ſacrificed the ſame? Laſtly, if ſo be the Lords Houſe be of no more value with thee then thine owne, take heed the Lord another day leaue thee not altogether to thine owne, when there ſhall be no <hi>Prince</hi> in this our Iſrael, but every ma<g ref="char:cmbAbbrStroke">̄</g> doing that which is beſt in his owne eyes, when there ſhall be no <hi>Prieſt,</hi> but every man of a Religion that he hath forged in his owne braine, and which is the conſequence of both
+<pb n="54" facs="tcp:177161:35"/> theſe when we ſhall be no <hi>People</hi> nei<g ref="char:EOLhyphen"/>ther, but<note n="c" place="margin">Virg. Aen. l. <hi>1.</hi>
+               </note> 
+               <hi>Relliquiae Danaûm,</hi> the Re<g ref="char:EOLhyphen"/>licks, and Remnant of a People, when <hi>a man ſhall be more precious then fine Gold, and aboue the wedge of the gold of Ophir,</hi> I meane in reſpect of the rarity of them as ſpeakes the Prophet<note n="x" place="margin">Eſay. 13.12.</note> 
+               <hi>Eſay</hi> in another caſe.</p>
+            <p>But I am perſwaded better things of you Beloved though I now thus ſpeake, the rather for that a many of you (I may ſay it of my owne experi<g ref="char:EOLhyphen"/>ence) viſit ſo well the Lords houſe at the vſuall times of <hi>Divine Service,</hi> ſo that I may now ſay as ſaide the Apo<g ref="char:EOLhyphen"/>ſtle in his<note n="y" place="margin">2 Theſſ. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.4.</note> Epiſtle to the <hi>Theſsalonians, We are perſwaded of you through the Lord that you both doe, and will doe the things which we warne you of.</hi>
+               <note n="z" place="margin">Rev. 22.11.</note> 
+               <hi>He that is righteous let him be righteous ſtill, &amp; he that is holy let him be holy ſtill.</hi>
+               <note n="a" place="margin">Gal. 6.9.</note> 
+               <hi>Let vs not be weary of welldoing for in due ſeaſon we ſhal reape if we faint not.</hi> And that ſhalbe, and it ſhalbe then<g ref="char:punc">▪</g> when
+<pb n="55" facs="tcp:177161:35"/> we ſhall not hereafter on our death<g ref="char:EOLhyphen"/>beds <hi>depart</hi> as one<note n="b" place="margin">Vt n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n ex vita ſed ex domo in do<g ref="char:EOLhyphen"/>mum vid<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re<g ref="char:EOLhyphen"/>tur migrare Corn. Nepos in vita Attic</note> ſpeaketh <hi>out of this life, but out of one houſe into ano<g ref="char:EOLhyphen"/>ther,</hi> that is when vpon the parting of Body and Soule we ſhalbe ſped fro<g ref="char:cmbAbbrStroke">̄</g> this Houſe of Praier here on earth, to that higher houſe aboue, the Houſe of Praiſes in Heaven, where<note n="c" place="margin">Ambroſ. Te Deum.</note> with <hi>Cherubins</hi> &amp; <hi>Seraphins continually cry<g ref="char:EOLhyphen"/>ing Holy, Holy, Holy Lord God of Saboth,</hi> we ſhall all of vs be ſatisfied with the<note n="d" place="margin">Pſ. 36.8,</note> 
+               <hi>plenteouſneſſe</hi> of that <hi>houſe.</hi> I wil <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d with that of <hi>Auſten</hi> who ending a Tract of his with the words of this my Text doth thus deſcant thervpo<g ref="char:cmbAbbrStroke">̄</g>, <hi>Let thy Soule</hi>
+               <note n="e" place="margin">Aug. in E<g ref="char:EOLhyphen"/>vang Ioan. Tract <hi>3.</hi>
+               </note> ſaith <hi>S. Auſten</hi> ſay, <hi>One thing haue I deſired of the Lord which I will require, even that I may dwell in the <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>uſe of the Lord al the daies of my life to behold the fair<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> beauty of the Lord. Feare not</hi> ſaith <hi>S. Auſten, that thy continuance <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re, will br<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d a fulſomnes in thee. Such a pleaſure of beau<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y ſhall it be that it ſhal be<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> alwaies in thy <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ie and yet ſhalt thou
+<pb n="56" facs="tcp:177161:36"/> never be ſatisfied with it. Or rather to ſpeake the Truth</hi> ſaith he, <hi>thou ſhalt e<g ref="char:EOLhyphen"/>ver be ſatisfied and never to. For if I ſhould only ſay thou ſhalt never be ſatiſ<g ref="char:EOLhyphen"/>fied, then mights thou feare ſome hunger to enſue, if I ſhould ſay only thou ſhalt be ſatisfied, then mightſt thou on the con<g ref="char:EOLhyphen"/>trary feare there ſhould be ſome fulſom<g ref="char:EOLhyphen"/>nes, where nor fulſomnes ſhalbe, nor hun<g ref="char:EOLhyphen"/>ger, I faith he for my part am ignoraunt what to call it. But howſoever I am igno<g ref="char:EOLhyphen"/>rant, yet hath the Lord ſufficient to giue and to beſtow on vs, which we are igno<g ref="char:EOLhyphen"/>rant how to call, and yet beleeue that we ſhall receiue it.</hi>
+            </p>
+            <p>The ſame <hi>Lord</hi> ſo bleſſe vs, and the ſeed that hath beene ſowen, that with <hi>you</hi> of the poorer ſort the<note n="k" place="margin">Mat. 13.<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>2.</note> Cares of this world, with <hi>you</hi> of the wealthier, the deceitfulnes of your riches, with <hi>either of you</hi> of
+<pb n="57" facs="tcp:177161:36"/> ether ſort the luſts of other things growe not vp like thornes and choake it.</p>
+         </div>
+         <div type="errata">
+            <head>Erratum.</head>
+            <p>
+               <hi>Pag.</hi> 28. <hi>lin.</hi> 10. amend it thus:</p>
+            <p>
+               <hi>Secondly,</hi> his <hi>Conſtancie</hi> in it &amp; that in theſe, <hi>which I will require: Thirdly,</hi> his <hi>Manifeſtation of it to the world,</hi> and that in theſe, <hi>I deſired of the Lord:</hi> not I deſired of thee O Lord.</p>
+         </div>
+         <div n="2" type="sermon">
+            <pb facs="tcp:177161:37"/>
+            <pb n="59" facs="tcp:177161:37"/>
+            <head>DAVIDS DESIRE to goe to Church.<note place="margin">2. <hi>Serm.</hi>
+               </note>
+            </head>
+            <epigraph>
+               <q>One thing haue I deſired of the Lord which I will require, even that I may dwel in the houſe of the Lord all the daies of my life, to beholde the faire beauty of the Lord and to viſit his Temple. <bibl>
+                     <hi>Pſalm. 27. ver. 4.</hi>
+                  </bibl>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">I</seg>T is not long ſince Right w<hi rend="sup">o•</hi> and dearely be<g ref="char:EOLhyphen"/>loved in our Sa<g ref="char:EOLhyphen"/>vior <hi>Chriſt,</hi> that my courſe com<g ref="char:EOLhyphen"/>ming in order <hi>to execute the Prieſts</hi>
+               <note n="a" place="margin">Luk. 1.8.</note> 
+               <hi>office before the Lord</hi> in this kind, I made my choiſe of theſe few words to be intreated of at that time. When by the aſſiſtance of the ſame Lord hauing multiplied the ſelf-ſame words into as many more wordes as
+<pb n="56" facs="tcp:177161:38"/> tooke vp the ſpace of a whole houre, there was yet behind ſome overplus, ſuch as at that time could not bee diſ<g ref="char:EOLhyphen"/>poſed of, and therfore reſerved by me till ſome fitter opportunity. Which opportunitie now come by reaſon of the Solemnity of this Day which re<g ref="char:EOLhyphen"/>quireth at our hands a more then or<g ref="char:EOLhyphen"/>dinarie reſpect, I am now come with that overplus &amp; as it were the<note n="b" place="margin">Ne velut ſemeſas ver<g ref="char:EOLhyphen"/>borum no<g ref="char:EOLhyphen"/>ſtrorum epu<g ref="char:EOLhyphen"/>las reliquiſſe videamur. Ambroſ. de Penitent. li. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. c. <hi>1.</hi>
+               </note> 
+               <hi>frag<g ref="char:EOLhyphen"/>ments</hi> that were left, that nothing be loſt as ſpeakes our Saviour, <hi>Iohn</hi> the ſixt at the twelfe verſe.</p>
+            <p>When firſt I handled then theſe words, you that were preſent may re<g ref="char:EOLhyphen"/>member, you that were not are now to know, that I the<g ref="char:cmbAbbrStroke">̄</g> devided the ſame into two eſpeciall points. <hi>Firſt</hi> into a <hi>Petition, ſecondly,</hi> into the <hi>Reaſon</hi> of it. The <hi>Petition</hi> in theſe words, <hi>One thing haue I deſired of the Lord which I will re<g ref="char:EOLhyphen"/>quire, even that I may dwell in the houſe of the Lord all the d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ies of my life.</hi> The <hi>Reaſon</hi> of it in theſe, <hi>To behold the faire
+<pb n="57" facs="tcp:177161:38"/> beauty of the Lord and to viſit his Tem<g ref="char:EOLhyphen"/>ple:</hi> In treating of the Petitio<g ref="char:cmbAbbrStroke">̄</g>, I obſer<g ref="char:EOLhyphen"/>ved the <hi>Matter</hi> of it, and the <hi>Manner</hi> of making it. The <hi>Manner</hi> of making it in theſe words, <hi>One thing haue I deſi<g ref="char:EOLhyphen"/>red of the Lord which I will require:</hi> the <hi>Matter</hi> of it in theſe, <hi>Even that I may dwell in the houſe of the Lord all the daies of my life.</hi> Jn the <hi>Matter</hi> of the Petiti<g ref="char:EOLhyphen"/>on I handled theſe points, <hi>Firſt,</hi> what kind of houſe this was; <hi>Secondly,</hi> what it was to dwell in it: <hi>Thirdly,</hi> the con<g ref="char:EOLhyphen"/>veniency of dwelling there. In the <hi>Manner</hi> of making it, theſe; <hi>Firſt,</hi> that it was his Chiefe Deſire: <hi>Secondly,</hi> his Conſtancie in it: <hi>Thirdly,</hi> th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Mani<g ref="char:EOLhyphen"/>feſtation of it to the world: and thus farre I then proceeded.</p>
+            <p>That which remained then be<g ref="char:EOLhyphen"/>hinde, and with the which I am now come, and of the which you are now to heare, is the <hi>Reaſon</hi> of the Petition, and it is as I ſaid in theſe words, <hi>To be<g ref="char:EOLunhyphen"/>hold the faire beauty of the Lorde and to
+<pb n="62" facs="tcp:177161:39"/> viſit his Temple.</hi> In which words may it pleaſe you to obſerue with mee theſe two points: <hi>Firſt,</hi> what this Faire Beauty was: <hi>Secondly,</hi> the Pow<g ref="char:EOLhyphen"/>er and Force that this Faire Beautie had. VVhat this Faire Beauty was we ſhal throughly obſerue if ſo be we do obſerue howe it conſiſted in two points. <hi>Firſt,</hi> in regard of the <hi>Parties</hi> that were preſent in that houſe: <hi>Se<g ref="char:EOLhyphen"/>condly,</hi> in regarde of the <hi>Things</hi> per<g ref="char:EOLhyphen"/>formed by thoſe Parties. The <hi>Parties</hi> preſent in that houſe was <hi>firſt</hi> the <hi>Lord</hi> himſelfe: <hi>Secondly,</hi> the <hi>Prieſtes: Thirdly,</hi> the <hi>People.</hi> The <hi>Things</hi> per<g ref="char:EOLhyphen"/>form<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d was the publike ſolemnitie of the worſhip of God, both in the <hi>Word</hi> and <hi>Sacraments,</hi> &amp; <hi>Sacrifices,</hi> &amp; <hi>Praier,</hi> and <hi>Praiſes.</hi> And of every of theſe in their ſeverall order, &amp; firſt of the Pre<g ref="char:EOLhyphen"/>ſence of the Lord.</p>
+            <p>
+               <hi>Anaxagoras</hi> being demanded to what end and purpoſe he was borne, his anſwere<note n="c" place="margin">Lactantius <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſt. l. <hi>3.</hi> c. <hi>9.</hi>
+               </note> ſaith <hi>Lactantius</hi> was, <hi>to
+<pb n="63" facs="tcp:177161:39"/> beholde the Heavens and Sun in the fir<g ref="char:EOLhyphen"/>mament.</hi> Which anſwere of his ſaith <hi>Lactantius</hi> is of all men much admi<g ref="char:EOLhyphen"/>red, and accounted to be a ſpeech wel befitting a Philoſopher I, ſaith he, for my part am quite of an other minde, and perſwade my ſelfe that the partie not knowing in that caſe what to ſay, thought good to ſay ſomewhat yet leaſt he ſhould haue beene thought by his Oppone<g ref="char:cmbAbbrStroke">̄</g>t to haue been put to a <hi>non plu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</hi> For indeed to ſay the truth ſaith <hi>Lactantius,</hi> in ſo few words then vttered, how many ſoleciſmes ſhall we find, &amp; thoſe no meane ones nei<g ref="char:EOLhyphen"/>ther? As <hi>firſt</hi> in that he referre<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the whole duty of man only to the <hi>eye</hi> of man, to the <hi>minde</hi> of man nothing at all, and how if <hi>Anaxagoras</hi> had bin blind ſaith he, ſhoulde he therevpon haue had in this worlde nothing to do? <hi>Againe</hi> ſaith <hi>Lactantius</hi> the o<g ref="char:EOLhyphen"/>ther partes of the Body had they no offices to performe? <hi>Beſides</hi> that the
+<pb n="64" facs="tcp:177161:40"/> chiefe Soveraignety ſeems rather in the eares ſaith he then in the eies, be<g ref="char:EOLhyphen"/>cauſe Learning &amp; Wiſedome may be obtained by the eares only, by the on<g ref="char:EOLunhyphen"/>ly eie they cannot be. That which <hi>La<g ref="char:EOLhyphen"/>ctantius</hi> there aimes at, namelie that the Creator of Heaven ſhould haue beene reſpected not the Creature which was Heaven, at leaſt wiſe be<g ref="char:EOLhyphen"/>fore the Creature, is reſpected no doubt by our Prophet here, in regard of whom it principally is that he ac<g ref="char:EOLhyphen"/>knowledgeth here ſo faire a beauty. For what is it that makes the Court more glorious then all places and aſ<g ref="char:EOLhyphen"/>ſemblies in the Land beſides, Is it not the preſence of the King? Doubleſſe where the King is, there is the Court, as it was tolde <hi>Commodus</hi> the Empe<g ref="char:EOLhyphen"/>rour<note n="d" place="margin">Meredian l. <hi>1.</hi>
+               </note> 
+               <hi>there was Rome where the Empe<g ref="char:EOLhyphen"/>rour was.</hi> Now that the <hi>King of Kings</hi> here was, witnes that of the Book of <hi>Numbers</hi> wherein it is<note n="e" place="margin">
+                  <hi>Numb.</hi> 7.89.</note> ſaid <hi>that wh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Moſes went into the Tabernacle to ſpeak
+<pb n="65" facs="tcp:177161:40"/> with God, he hard the voice of one ſpea<g ref="char:EOLhyphen"/>king vnto him from the mercy ſeat that was vpon the Arke betweene the two Cherubins.</hi> Hence that of this our Pro<g ref="char:EOLunhyphen"/>phet in another of his<note n="f" place="margin">Pſa. 80.1.</note> Pſalmes, <hi>Here oh thou ſhepheard of Iſrael, thou that lea<g ref="char:EOLhyphen"/>deſt Ioſeph like a ſheepe, ſhew thy ſelfe alſo thou that ſetteſt vpon the Cherubins.</hi> And againe in another<note n="g" place="margin">Pſa. 99.1.</note> Pſalme, <hi>The Lord is King bee the people never ſo im<g ref="char:EOLhyphen"/>patient, he ſetteth betweene the Cheru<g ref="char:EOLhyphen"/>bins be the earth never ſo vnquiet.</hi> And as in theſe two Pſalms he is ſaid <hi>to ſet,</hi> ſo in other places of holy Scriptures he is ſaid <hi>to dwell</hi> betweene the <hi>Che<g ref="char:EOLhyphen"/>rubins,</hi> both theſe tearmes <hi>Setting</hi> &amp; <hi>Dwelling</hi> ſignifying vnto the<g ref="char:cmbAbbrStroke">̄</g> his pre<g ref="char:EOLhyphen"/>ſence there. Not that he ſate or dwelt there in truth and in very deed, as we in our tongue vnderſtand or Setting or Dwelling, yet that he was as really there preſent in that place, as them<g ref="char:EOLhyphen"/>ſelues were in the ſeats they ſate on, or in the houſes where they dwelt.</p>
+            <pb n="66" facs="tcp:177161:41"/>
+            <p>Concerning the <hi>Prieſtes</hi> that here were preſent though the beauty they had was nothing comparable to this beautie, yet conſidered in it ſelfe it was a Beautie no doubt exceeding gratious &amp; glorious too. They were the<note n="h" place="margin">Deut. 33.8.</note> holy one of God, and had a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Moſes</hi> ſaith the <hi>Vrim</hi> and <hi>Thummim,</hi> that is, <hi>Light</hi> and <hi>Perfection,</hi> the one ſignifying their Knowledge, the o<g ref="char:EOLhyphen"/>ther their Life and Converſation. Of Prieſts were two ſorts the <hi>High Prieſt</hi> and the <hi>Reſt</hi> that were inferiour vnto him. Concerning the glorie of the <hi>High Prieſt</hi> we ſhall the better con<g ref="char:EOLhyphen"/>ceaue what it was, if ſo be we call to mind what the ſonne of <hi>Syrac</hi> ſaid co<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>cerning one of them namely <hi>Simon</hi> the ſoone of <hi>Onias. He was,</hi>
+               <note n="i" place="margin">Ecclus. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>0.6.</note> ſaith the ſonne of <hi>Syrac, as the morning ſtarre in the midſt of a cloud, and as the Moone when it is full, and as the Sunne ſhining vpon the Temple of the moſt High, &amp; as the Rainebow that is bright in the faire
+<pb n="67" facs="tcp:177161:41"/> clouds, and as the flowre of the Roſes in the ſpring of the yeare, and as Lillies by the ſprings of waters, and as the bran<g ref="char:EOLhyphen"/>ches of the Frank<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ncenſe tree in the time of Summer, as a fire and incenſe in the Conſer, and a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> a veſſell of maſsie gold ſet with all manner of pretious ſtones, and as a faire Oliue tree that is fruitfull, and as a Cypreſſe tree which groweth vp to the cloudes. When he put on the garment of honour and was clothed with all beau<g ref="char:EOLhyphen"/>ty he went vp to the holy Altar &amp; made the garment of holyneſſe honourable.</hi> Concerning the glory of the other Prieſts which were inferiour vnto him we may make an eſtimat by that which there followeth. <hi>When he tooke the portions out of the Prieſts hands he himſelfe ſtood by the hearth of the Altar compaſſed with his Bretheren round a<g ref="char:EOLhyphen"/>bout as the branches doe the Cedar tree in L<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>banus, and they compaſſed him as the branches of the Palme tree. So were at the ſonnes of Aron in their glory &amp;
+<pb n="68" facs="tcp:177161:42"/> the oblations of the Lord in their hands before all the Congregation of Iſrael.</hi> In a word, the Iewes they were<note n="f" place="margin">Levit. 20.24.</note> ſepara<g ref="char:EOLhyphen"/>ted as Gods peculiar people from all other people beſides, and the Prieſts as more peculiar vnto God were<note n="g" place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. 8.14.</note> ſe<g ref="char:EOLhyphen"/>parated from the <hi>Iewes.</hi>
+            </p>
+            <p>Concerning the preſence of the <hi>People,</hi> if ſo be in civil Societies wher<g ref="char:EOLhyphen"/>as they are orderly pyld together and they are not a tabble or a rout, it is no ſmall beautie which in ſuch Societies is to be ſeene, how much more was the beautie in thoſe Aſſemblies in ſo peculiar a People as that was. One <hi>Timotheus</hi> a Captaine of <hi>Athens</hi> be<g ref="char:EOLhyphen"/>ing demanded by <hi>Themiſtocles</hi> what was the greateſt ioy that ever he had in all his life, <hi>It was,</hi>
+               <note n="h" place="margin">Ae<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ian. l<g ref="char:punc">▪</g> 
+                  <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>3.</hi> c. <hi>43.</hi>
+               </note> ſaith he, <hi>when in the Olympian games beginning to play my Prize, the whole Theater there pre<g ref="char:EOLhyphen"/>ſent beh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ld me with their eies.</hi> And fa<g ref="char:EOLhyphen"/>mous is that of the <hi>Senators</hi> of <hi>Rome,</hi> who when the <hi>Gaules</hi> had taken their
+<pb n="69" facs="tcp:177161:42"/> Citty, and now were entred into the Senate, <hi>They</hi>
+               <note n="i" place="margin">Liv. Dec. <hi>1</hi> l <hi>5.</hi>
+               </note> 
+               <hi>ſeemed vnto them at the firſt like the Images of the Gods,</hi> of ſuch a goodly preſence they were. The or<g ref="char:EOLhyphen"/>der obſerved in theſe Aſſemblies as it was farre beyond thoſe, ſo was the Beautie no doubt far faierer, a wor<g ref="char:EOLhyphen"/>thier obiect to the eie. <hi>It is well ſeene o God,</hi>
+               <note n="k" place="margin">Pſ. 68.24.</note> ſaith <hi>David, how thou goeſt, how thou my God and King goeſt in the San<g ref="char:EOLhyphen"/>ctuarie. The Singers goe before, the Min<g ref="char:EOLunhyphen"/>ſtrels follow after, in the midſt were the Damſels playing with the Timbrels,</hi> Nor was it preiudiciall to this beauty that there was perhaps in thoſe Aſ<g ref="char:EOLhyphen"/>ſemblies much cockle among the wheat, the bad among the good, all as ſpeakes the<note n="l" place="margin">Rom. 9.6.</note> Apoſtle S<hi rend="sup">t</hi> 
+               <hi>Paule, not being Iſrael that were of Iſrael, nor all of them Children becauſe they were the ſeed of Abraham:</hi> ſeeing it was in re<g ref="char:EOLhyphen"/>ſpect of the better part that this beau<g ref="char:EOLunhyphen"/>tie here was thus accounted of. Like as we ſay in our Creed, <hi>The holy Ca<g ref="char:EOLhyphen"/>tholike
+<pb n="70" facs="tcp:177161:43"/> Church,</hi> notwithſtanding there are too many neither <hi>Catholike</hi> there<g ref="char:EOLhyphen"/>in, nor <hi>Holy.</hi> But thus much of the <hi>Perſons,</hi> the Parties here preſent.</p>
+            <p>The <hi>Things</hi> performed in theſe Aſſembles wherein this Beautie did conſiſt, was as I ſaid the <hi>Publique So<g ref="char:EOLhyphen"/>lemnitie</hi> of the honour and ſervice of God, both in his <hi>Word,</hi> &amp; <hi>Sacraments,</hi> and <hi>Sacrifices,</hi> and <hi>Prayer,</hi> and <hi>Praiſes;</hi> and indeed admirable was the beauty in every of theſe particulars being beheld with ſpirituall eyes. As <hi>firſt</hi> &amp; formoſt in the <hi>Word,</hi> to conſider how the eternall God at<note n="m" place="margin">Heb. 1.1.</note> 
+               <hi>ſundry times &amp; in divers manners ſpake vnto them by the Prophets. Secondly,</hi> in the <hi>Sacra<g ref="char:EOLhyphen"/>ments,</hi> to conſider how the ſame <hi>God</hi> did bind himſelfe vnto them, even as the Debt or bindeth himſelfe by bond vnto his Creditor, or man to man by way of Indenture. <hi>Thirdly</hi> in the <hi>Sa<g ref="char:EOLhyphen"/>crifices</hi> to conſider what was due vn<g ref="char:EOLhyphen"/>to the ſinnes themſelues committed<g ref="char:punc">▪</g>
+               <pb n="71" facs="tcp:177161:43"/> I ſay themſelues committed, and yet
+<q>
+                  <l>
+                     <note n="n" place="margin">Ovid. Met l. <hi>15.</hi>
+                     </note>Placidum pecus, in<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> tuendos</l>
+                  <l>Natum homines,</l>
+               </q> the milde and gentle <hi>Sheep,</hi>
+               <q>Animal ſine fraude, doliſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan>,</q> the innocent &amp; harmeleſſe <hi>Oxe,</hi> they forſooth muſt die the death. <hi>Fourthly</hi> in their <hi>Praiers,</hi> how they needed not now make ſuch Apologies as <hi>Abraha<g ref="char:cmbAbbrStroke">̄</g>
+               </hi> did vnto the Lord,<note n="o" place="margin">Ge<g ref="char:cmbAbbrStroke">̄</g>, 18.27</note> 
+               <hi>Behold now I haue begun to ſpeake vnto my Lord, and I am but duſt and aſhes:</hi> and againe,<note n="p" place="margin">V. 30.</note> 
+               <hi>Let not my Lord now be angry that I ſpeake:</hi> and yet againe,<note n="q" place="margin">V. 32.</note> 
+               <hi>Let not my Lord now be angry and I will ſpeake but this once:</hi> no they might nowe talke their fill with him, every Morning, every Evening, both at their Morning and Evening Sacrifice. Laſtly in their <hi>Praiſes</hi> to co<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>ſider how they<note n="r" place="margin">Pſ. 150.1.</note> 
+               <hi>prayſed God in his ho<g ref="char:EOLhyphen"/>lines, praiſed him in the firmament of his power, praiſed him in his noble acts, prai<g ref="char:EOLhyphen"/>ſed him according to his excellent great<g ref="char:EOLhyphen"/>nes, praiſed him in the ſound of the tru<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>pet,
+<pb n="72" facs="tcp:177161:44"/> praiſed him vpon the Lute &amp; harp, praiſed him in the Cymbals &amp; Daunces, praiſed him vpon the ſtrings and Pipe, praiſed him vpo<g ref="char:cmbAbbrStroke">̄</g> the well tuned Cymbals, praiſed him vpon the lowd Cymbals.</hi> In<g ref="char:EOLhyphen"/>deede it was <hi>a good thing</hi> as<note n="ſ" place="margin">Pſ. 147.1.</note> ſaide the Pſalmiſt <hi>to ſing praiſe vnto their God, yea a ioyfull and pleaſant thing it was to be thankfull.</hi> And thus much of the <hi>Faire Beauty</hi> in reſpect of the <hi>Things</hi> performed in thoſe <hi>Aſſemblies:</hi> nowe as touching the <hi>Power</hi> and <hi>Force</hi> this <hi>Faire Beauty</hi> had, which was as you may remember the ſeconde point to be obſerved.</p>
+            <p>Concerning the <hi>Power</hi> &amp; <hi>Force</hi> of this <hi>Faire Beauty</hi> here ſpecified, wee ſhall take a ſcantling thereof, if ſo be we do conſider howe it raviſhed this our Prophet, <hi>Body,</hi> and <hi>Soule. Firſt</hi> his <hi>Soule,</hi> and that by way of <hi>Contempla<g ref="char:EOLhyphen"/>tion, To behold the Faire Beauty of the Lord: Secondly</hi> his <hi>Body,</hi> &amp; that by way of <hi>Action, To viſit his Temple: Third<g ref="char:EOLhyphen"/>ly</hi>
+               <pb n="73" facs="tcp:177161:44"/> in that it cauſed him to ioine them both togither, &amp; that in the particle, <hi>And To beholde the faire beauty of the Lord and to viſit his Temple.</hi> And of every of theſe in their order, &amp; firſt that his <hi>Soule</hi> was raviſhed by way of <hi>Contemplation. To behold the faire beauty of the Lord.</hi>
+            </p>
+            <p>Great is the <hi>Power</hi> of <hi>Beauty</hi> though it be but worldly beauty ſuch as is the beauty of wome<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:punc">▪</g> 
+               <hi>Is not the king</hi>
+               <note n="t" place="margin">1. Eſd. 4.28.</note> ſaith <hi>Zorobabel great in his power? Doe not all regions feare to touch him? Yet I ſaw him and Apame the kings concubine, the daughter of the famous Bartacus, ſitting on the right hand of the king. And ſhee tooke the crowne of the kings head, and put it vpon her own, and ſtroke the king with her left hand. Yet in the meane ſea<g ref="char:EOLhyphen"/>ſon the king gaped and gazed on her, and if ſhee laughed at him, he laughed, and if ſhe were angry with him he did flatten her that he might be reconciled with her. The ſonnes of God</hi>
+               <note n="u" place="margin">Gen. 6.7.</note> ſaith the Scripture
+<pb n="74" facs="tcp:177161:45"/> 
+               <hi>ſaw the daughters of men that they were faire and they tooke them wiues of al that they liked. Behold</hi>
+               <note n="c" place="margin">Ge<g ref="char:cmbAbbrStroke">̄</g>. 12.11</note> ſaith <hi>Abraham</hi> to <hi>Sara I know that thou art a faire woman to looke vpon, therefore it will come to paſse that when the Egiptians ſee thee they will ſay ſhe is his wife, ſo they will ki<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> me but they will keepe thee a liue.</hi> Now if ſo bee in worldly beauty which is but a ſuperficial colour only covering the bloud, skin, &amp; bones, things moſt hideous to be beheld, &amp; that which Diſeaſes ſome times, alwaies Age doth deforme,<note n="d" place="margin">Fl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>vit vt in ſpeculo ru<g ref="char:EOLhyphen"/>ga<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> adſpexit aniles Tyn<g ref="char:EOLhyphen"/>daris. Ovid. Metam. l. <hi>15</hi>
+               </note> the power and force therof is ſo great, what may we think of this <hi>Beauty</hi> which was ever the ſelfe ſame, as freſh in <hi>Davids</hi> times as it was in the time of <hi>Moſes,</hi> and in the times of the <hi>Prophets</hi> after, as in <hi>Da<g ref="char:EOLhyphen"/>vids</hi> long before, nay much more freſh &amp; glorious, having a moſt beau<g ref="char:EOLunhyphen"/>tifull <hi>Temple</hi> to adorne it, the <hi>Temple</hi> of <hi>Ieruſalem.</hi> Howbeit here we are to note that the beauty here ſpecified
+<pb n="75" facs="tcp:177161:45"/> was not outward ſo much as within, and therefore needed an inward eie, the eie of <hi>Contemplation. The Kings daughter</hi>
+               <note n="e" place="margin">Pſ. 45.14.</note> ſaith the Prophet <hi>is all glo<g ref="char:EOLhyphen"/>rious within,</hi> quite contrary to world<g ref="char:EOLhyphen"/>ly beauty. Worldly beauty as you hard even nowe reacheth no further then to the skin, to the outward <hi>Su<g ref="char:EOLhyphen"/>perficies,</hi> It may be faire without and foule within, much like to the Egip<g ref="char:EOLhyphen"/>tian Temples which were marvellous beautifull without, <hi>but within inſteed of a God, they had a Crocodile, or a Cat, or ſome ſtrange ſerpent more meete for a caue, or a den, I for a dunghill</hi> ſaith an ancient<note n="f" place="margin">Clem. Alex Paedag. l. <hi>3.</hi> c. <hi>2.</hi>
+               </note> Father <hi>then for a place ſo gor<g ref="char:EOLhyphen"/>geous.</hi> It was not ſo with this <hi>Temple.</hi> There was beauty without i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> deed, but more, much more within, and therefore not to be ſeene with corpo<g ref="char:EOLunhyphen"/>ral eies ſo much, ſuch as are common to vs with <hi>Flies,</hi> &amp; <hi>Gnots,</hi> as with the eie of vnderſtanding, even with thoſe <hi>eies</hi> as ſpeakes<note n="g" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Theod. Grae<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Affect. C<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Ser. <hi>11.</hi>
+               </note> 
+               <hi>Theodoret, which faith
+<pb n="76" facs="tcp:177161:46"/> hath put into our heads.</hi> And thus much for the Prophets <hi>eie,</hi> the <hi>Eie</hi> of <hi>Contemplation:</hi> not the eie he behelde when time was the beauty of<note n="h" place="margin">2. Sam. 11.2.</note> 
+               <hi>Bath<g ref="char:EOLhyphen"/>ſheba</hi> with, no he was now blinde on that ſide, but the eie of the mind, and of the ſoule, <hi>To behold the fa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re beautie of the Lord.</hi> The <hi>thing</hi> I noted here was that it raviſhed his <hi>Body</hi> to, and that by way of <hi>Action,</hi> &amp; that in cau<g ref="char:EOLhyphen"/>ſing him to take the paines to go him ſelfe in perſon thither, and therefore now concerning his body: <hi>To viſit his Temple.</hi>
+            </p>
+            <p>The word <hi>Temple</hi> in this place do<g ref="char:EOLhyphen"/>eth not argue that this Pſalme was made after the building of the Tem<g ref="char:EOLhyphen"/>ple, &amp; that conſequently it was none of <hi>Davids,</hi> the Temple in <hi>Davids</hi> time not being built, for even long before this time it was<note n="i" place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Sam. 1.9</note> ſaid of <hi>Eli</hi> the Prieſt, <hi>that he ſate vpon a ſtoole by one of the poſts of the Temple.</hi> It is by a kind of fi<g ref="char:EOLhyphen"/>gure then that it is tearmed here the
+<pb n="77" facs="tcp:177161:46"/> 
+               <hi>Temple,</hi> like as <hi>S. Ierome</hi> vpon <hi>Ezechiel, we in ſteede of the cittie Noe</hi>
+               <note n="k" place="margin">Hieron. in Ezech. l. <hi>9.</hi> c. <hi>30.</hi>
+               </note> ſaith he, <hi>haue tranſlated it Alexandria; for that it was afterward ſo called;</hi> and <hi>S.</hi>
+               <note n="l" place="margin">Aug. de Conſenſ. E<g ref="char:EOLhyphen"/>vang. l. <hi>2.</hi> c. <hi>17.</hi>
+               </note> 
+               <hi>Auſtin</hi> to this purpoſe, <hi>we heare that Chriſts diſciples were bidden to the mariage at Cana in Galylie, not that they were his diſciples then and that at that time, but that they were afterwards ſo to be.</hi> But nowe concerning the <hi>Action</hi> of viſi<g ref="char:EOLhyphen"/>ting the Temple.</p>
+            <p>The verbe <hi>To viſit</hi> being a freque<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>tatiue intimates vnto vs the <hi>frequency</hi> of the Prophet <hi>Davids</hi> going to that Temple, his frequencie of going thi<g ref="char:EOLhyphen"/>ther the <hi>fervency</hi> of his deſire. Con<g ref="char:EOLhyphen"/>cerning his <hi>freque<g ref="char:cmbAbbrStroke">̄</g>cy</hi> of going thither it was well obſerved by the<note n="m" place="margin">Ariſt. Eth. l. <hi>1.</hi> c. <hi>7.</hi>
+               </note> Philo<g ref="char:EOLhyphen"/>ſopher that <hi>a habit is not gotten by one only action, no more the<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ne ſwallo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> as he ſpeaks in an other caſe, <hi>or one faire day makes a ſummer.</hi> I<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>as wel obſer<g ref="char:EOLhyphen"/>ved by him in<note n="n" place="margin">Ethic. l. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. c. <hi>4.</hi>
+               </note> another place, <hi>that it is not the multiplicity of actions neither
+<pb n="78" facs="tcp:177161:47"/> that doeth denominate the party vertu<g ref="char:EOLhyphen"/>ous but if he do them vertuouſly:</hi> as aiuſt man if he do iuſt things iuſtly, a tem<g ref="char:EOLhyphen"/>perate man if he do temperate things temperatly. In regard whereof the<note n="o" place="margin">Vid. Iew<g ref="char:EOLhyphen"/>els Defence of the Articles. Art. <hi>5.</hi> Div. <hi>5</hi> and M. Hoo<g ref="char:EOLhyphen"/>ker Eccl. Pol. l. <hi>5.</hi> Sect. <hi>62.</hi>
+               </note> 
+               <hi>Canoniſts</hi> were wont to ſay that <hi>God was the rewarder of Adverbs, not of Nownes,</hi> and our Saviour to this pur<g ref="char:EOLhyphen"/>poſe,<note n="p" place="margin">Mat. 6.22</note> 
+               <hi>If thy eie be ſingle, thy whole body ſhalbe light, but if thine eie be wicked the<g ref="char:cmbAbbrStroke">̄</g> all thy body ſhalbe darke:</hi> that is as <hi>S. Au<g ref="char:EOLhyphen"/>ſten</hi>
+               <note n="q" place="margin">Auguſt. de Serm. Dom. <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Monte. l. <hi>2</hi>
+               </note> interprets it, <hi>ſuch ſhalbe thy deeds as thy intention is to do them.</hi> Theſe two pointes the one of <hi>Multiplicity</hi> the other of <hi>Quality,</hi> are both of them intimated here in this ſingle ſole word of <hi>Viſiting: To Viſit</hi> implyeth both; <hi>Firſt</hi> it implies a <hi>Frequency</hi> of going to the Temple, as if the Pro<g ref="char:EOLhyphen"/>phet had meant his feet ſhould even weare out the very ſteps of the dore. <hi>Secondly,</hi> it implies his <hi>Feruency</hi> of ſpi<g ref="char:EOLhyphen"/>rit which manifeſtly ſheweth that what was done was done religiouſly.
+<pb n="79" facs="tcp:177161:47"/> And this it is that muſt be done, and it muſt be done thus, that muſt be held to be ſuch an action as the Pro<g ref="char:EOLhyphen"/>phet proteſteth here he woulde per<g ref="char:EOLhyphen"/>forme. If either of theſe two want, or <hi>Frequencie,</hi> or <hi>Ferventi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> it makes vs like a bird that hath but one only wing, wel we may hop to Church, but fly thither we cannot, we ſhal ne<g ref="char:EOLhyphen"/>ver be able as ſpeaks the<note n="r" place="margin">Eſay. 60.8</note> Prophet, <hi>to fly thither like a clowde, and as the Doues to their windoes.</hi>
+            </p>
+            <p>The ioining of both theſe puts me in minde of the <hi>third</hi> point, namelie how this our Prophet ioineth like<g ref="char:EOLhyphen"/>wiſe togither, <hi>Contemplation</hi> and <hi>Acti<g ref="char:EOLhyphen"/>on</hi> both, &amp; that in the particle <hi>[And] To behold the faire beauty of the Lord, and to viſit his Te<g ref="char:cmbAbbrStroke">̄</g>ple:</hi> ſo that he ſeemes not to ſay as<note n="ſ" place="margin">Mach. Co<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>ment. l. <hi>2.</hi> c. <hi>2</hi> &amp; l. <hi>3.</hi> c. <hi>3.</hi>
+               </note> 
+               <hi>Machauel</hi> in another caſe, <hi>Divide &amp; Impera, divide them and maſter them both:</hi> but as it was<note n="t" place="margin">Quintil. Inſt. l. <hi>6.</hi> c. <hi>4.</hi>
+               </note> ſaid of the Ship rather, <hi>Si dividi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, per di<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>: If ye once divide it, you marre all.</hi> And there<g ref="char:EOLhyphen"/>fore
+<pb n="80" facs="tcp:177161:48"/> what the Apoſtle<note n="u" place="margin">1. Cor. 7.1.</note> ſaith of ma<g ref="char:EOLhyphen"/>ried folkes, <hi>Defraud not one another ex<g ref="char:EOLhyphen"/>cept it be with conſent for a time that you may giue your ſelues to faſting and praier, and againe come togither that Sa<g ref="char:EOLhyphen"/>than tempt you not for your incontinen<g ref="char:EOLhyphen"/>cy,</hi> may not vnfitly be applied as to the two liues the <hi>Contemplatiu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> and <hi>Ac<g ref="char:EOLhyphen"/>tiue</hi> in generall, ſo to this <hi>Contempla<g ref="char:EOLhyphen"/>tion</hi> and <hi>Action</hi> of the Prophet here in particular. Our <hi>Souls</hi> and <hi>Bodies</hi> are<note n="c" place="margin">Caro at<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> Anima velut quadam lege ſociantur co<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>iugii. Ambr. de Abrah. Pa<g ref="char:EOLunhyphen"/>triarch. l. <hi>2.</hi> c. <hi>6.</hi>
+               </note> 
+               <hi>Man</hi> and <hi>Wife</hi> as it were, ſo louelie linckt togither that till death it ſelfe depart them, no Divorce betwixt the both. With conſent indeed they of<g ref="char:EOLhyphen"/>ten times<note n="b" place="margin">1. Cor. 7.5.</note> 
+               <hi>defraud one another, that ſo they may giue themſelues to faſting and prayer,</hi> and what is this but the <hi>Life Contemplatiue?</hi> But afterwards they come together againe, and are care<g ref="char:EOLhyphen"/>full for things convenient for them, and this is the <hi>Life Actiue.</hi> Theſe two ſeverall liues the <hi>Actiue</hi> and <hi>Contem<g ref="char:EOLhyphen"/>platiue</hi> haue had their ſeverall welwil<g ref="char:EOLhyphen"/>lers
+<pb n="81" facs="tcp:177161:48"/> from the beginning of the world to this day, while ſome preferring the one Life, ſome the other, haue wholy addicted themſelues or to the one, or to the other. Much I confeſſe may be ſpoken in the behalfe of either of the<g ref="char:cmbAbbrStroke">̄</g>, but when all comes to all, the Life that ioines them both together and vnites theſe two <hi>Roſes,</hi> the <hi>White</hi> as it were and the <hi>Red,</hi> is the Life in my o<g ref="char:EOLhyphen"/>pinion beſt accepted with God and man. I appeale in this caſe to Antiqui<g ref="char:EOLunhyphen"/>tie it ſelfe, which tooke ſuch ſtrict or<g ref="char:EOLhyphen"/>der that very <hi>Monks</hi> who had beta<g ref="char:EOLhyphen"/>ken themſelues to <hi>Contemplation,</hi> ſhould not be<note n="d" place="margin">Vid. A<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>g. de Opere Monach. Tom. <hi>3.</hi>
+               </note> labourleſſe notwith<g ref="char:EOLhyphen"/>ſtanding; I they were to worke with their owne hands, &amp; that to get their owne living. Howbeit the <hi>Action</hi> here meant by the Prophet in this place, is not an <hi>Action</hi> of this nature, it was to vſe his feet not his hands, e<g ref="char:EOLhyphen"/>ſpecially his hands in a Mechanicall kind of ſort. It was indeed to vſe thoſe feet of his to the often com<g ref="char:EOLhyphen"/>ming
+<pb n="82" facs="tcp:177161:49"/> to the Temple, and not vpon the wagging of a ſtrawe, or to abſent himſelfe from thence, or to make of his owne houſe a Chappell of eaſe. Hence it is that he ſo often<note n="e" place="margin">Pſ 26.12.</note> voweth vnto God the ſacrifice of praiſe and thankſgiving in the <hi>Congregation,</hi> that he ſo<note n="f" place="margin">Pſ. 134.2.</note> earneſtly exhorteth others to ſing praiſes to the Lord in his <hi>Courts,</hi> in his<note n="g" place="margin">Pſ. 134.3.</note> 
+               <hi>Sanctuary,</hi> before the<note n="h" place="margin">Pſ. 30.5.</note> 
+               <hi>Memo<g ref="char:EOLhyphen"/>riall of his Holineſſe,</hi> and ſo much com<g ref="char:EOLhyphen"/>plaineth of his owne vncomfortable exile,<note n="i" place="margin">See M Hoe<g ref="char:EOLhyphen"/>ker Eccleſ. Pol. l. <hi>5.</hi> Sect. <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>4.</hi>
+               </note> wherein although he ſuſtained many moſt grievous indignities, and indured the want of ſundry both plea<g ref="char:EOLunhyphen"/>ſures and honours before enioyed, yet as if this one were his only griefe and the reſt not felt, his ſpeeches are all of the heavenly benefit of<note n="k" place="margin">Pſ. 27.4.4<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.4.84.1.</note> 
+               <hi>Pub<g ref="char:EOLhyphen"/>like Aſſemblies,</hi> and the happineſſe of ſuch as had free acceſſe therevnto. And as the Prophet here in this place thus ioineth them together, ſo doubt leſſe no good Profeſſor that liued in thoſe times but alſo did the like, ioy<g ref="char:EOLhyphen"/>ning
+<pb n="83" facs="tcp:177161:49"/> and coupling both together, leaſt with idle <hi>Contemplation</hi> without comming at all to <hi>Church Aſſemblies</hi> he might vaniſh away in his ſpecula<g ref="char:EOLhyphen"/>tion, or comming to <hi>Church Aſſem<g ref="char:EOLhyphen"/>blies</hi> without the benefit of <hi>Contem<g ref="char:EOLhyphen"/>plation</hi> he ſhould be like to thoſe who<note n="l" place="margin">Eſay. 29.13.</note> 
+               <hi>came neere to the Lord with their mouthes, and honoured them with their lips, but their hart was farre from him.</hi> And thus much of the <hi>Reaſon</hi> of the Prophets <hi>Petition</hi> in this place, the <hi>Beautie</hi> of the <hi>Church</hi> that ſo much moved him to be ſo deſirous to goe to Church. Now to apply what hath beene ſpoken, and to make ſuch vſe of it as is fit, &amp; to come to the marke it ſelfe whereat I firſt aimed when I firſt made choiſe of this Text. <hi>To be<g ref="char:EOLhyphen"/>hold the faire beauty of the Lord and to viſit his Temple.</hi>
+            </p>
+            <p>Little wrong was done to <hi>Saul</hi> by the woman of <hi>Iſrael</hi> when they made it the burden of their ſong,<note n="m" place="margin">1. Sam. 18.7.</note> 
+               <hi>Saul hath ſlaine his thouſand, and David his ten
+<pb n="84" facs="tcp:177161:50"/> thouſand. The vnlike deſerts of theſe two Princes,</hi>
+               <note n="n" place="margin">M.D King on Ionas. Lect. <hi>1.</hi>
+               </note> ſaith a worthy Divine of our daies, <hi>might iuſtly admit an vn<g ref="char:EOLhyphen"/>like commendation.</hi> Our Saviour in the Goſpell indeed<note n="o" place="margin">Luk. 5.39</note> preferreth olde wine before new: but in the ſame Goſpell if we marke it, he preferreth the <hi>New</hi>
+               <note n="p" place="margin">Luk. 7.<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>8.</note> 
+               <hi>Teſtament</hi> before the old. <hi>There is no greater Prophet then Iohn,</hi>
+               <note n="q" place="margin">Mat 11.11.</note> ſaith he, <hi>among them that are begot<g ref="char:EOLhyphen"/>ten of women, nevertheleſſe he that is leaſt in the kingdome of God is greater then he,</hi> the <hi>kingdome of God</hi> being there taken as the <hi>kingdome of heauen, Matthew</hi> the third at the ſecond verſe, and the <hi>Goſpell of the kingdome, Mat<g ref="char:EOLhyphen"/>thew</hi> the fourth at the three &amp; twen<g ref="char:EOLhyphen"/>tie verſe, and the <hi>word of the kingdome, Matthew</hi> the thirteenth at the nine<g ref="char:EOLhyphen"/>teenth verſe, in a word, as our Savior meant when he ſaid, <hi>The kingdome of God ſhall be taken from you, and ſhall be given to a Nation which ſhall bring forth the fruits thereof, Matthew</hi> the one and twentieth at the three and
+<pb n="85" facs="tcp:177161:50"/> fortieth verſe.</p>
+            <p>Theſe things thus, Beloved, it ſhall be no diſparagement to the <hi>Temple</hi> here in this place, if ſo be we preferre before it the <hi>Beautie</hi> of our <hi>Temples.</hi> The <hi>Beauty</hi> I told you of this <hi>Temple</hi> conſiſted in two points, <hi>Firſt</hi> in re<g ref="char:EOLhyphen"/>gard of the <hi>Parties</hi> that there were preſent: <hi>Secondly</hi> in regard of the <hi>Things</hi> performed in thoſe Aſſem<g ref="char:EOLhyphen"/>blies. The <hi>Parties</hi> preſent were <hi>firſt</hi> the <hi>Lord</hi> himſelfe, <hi>then</hi> the <hi>Prieſts, the<g ref="char:cmbAbbrStroke">̄</g>
+               </hi> the <hi>People.</hi> The <hi>Things</hi> performed in thoſe Aſſemblies was the Publique Solemnitie of Gods worſhip both in the <hi>word,</hi> and <hi>Sacraments,</hi> and <hi>Sacrifi<g ref="char:EOLhyphen"/>ces,</hi> and <hi>Prayer,</hi> and <hi>Prayſes:</hi> and doth not the <hi>Church of God</hi> whereof our Aſſemblies are every of them parts and parcels, of the ſelfe ſame nature the <hi>Church</hi> is, eve<g ref="char:cmbAbbrStroke">̄</g> the meaneſt Aſſem<g ref="char:EOLhyphen"/>bly that is (ſo it be a Congregation) doth not the <hi>Church</hi> I ſay ſo far excell that <hi>Synagogue</hi> as the Sunne in his brightneſſe the meaneſt ſtarre? Begin
+<pb n="86" facs="tcp:177161:51"/> wee firſt of all with <hi>Gods</hi> preſence, and is it not more in <hi>Chriſtian Aſſem<g ref="char:EOLhyphen"/>blies</hi> the<g ref="char:cmbAbbrStroke">̄</g> it was to the <hi>Iſraelits</hi> in that <hi>Temple: At ſundrie times and in diuers maners</hi>
+               <note n="r" place="margin">Heb. 1.1.</note> ſaith the Apoſtle to the He<g ref="char:EOLhyphen"/>brews <hi>God ſpake in the old time to our Fathers by the Prophets, in theſe laſt dais he hath ſpoken to vs b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>is Sonne:</hi> &amp; ne<g ref="char:EOLhyphen"/>ver ſpake Prophet <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ke the Son, <hi>Iohn</hi> the ſeaventh <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e ſixe and for<g ref="char:EOLhyphen"/>tith verſe. O but you w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſay God him ſelfe ſpake to <hi>Moſes, Moſes</hi> hard his<note n="ſ" place="margin">Numb. 7.89.</note> owne voice: I grant he did; and was not the ſame voice of the ſame God hard alſo in the new Teſtament <hi>firſt</hi> vpo<g ref="char:cmbAbbrStroke">̄</g> the baptiſme of our Savior, <hi>Mat<g ref="char:EOLhyphen"/>thew</hi> the third at the ſeave<g ref="char:cmbAbbrStroke">̄</g>teenth verſ, <hi>ſecondly,</hi> at another time <hi>Iohn</hi> the 12 at the eight and twenty verſe? True it is, it was at thoſe times, it was then, it is not now, howbeit as <hi>S. Auſten</hi> in the matter of the <hi>Tongues, To one that ſhould ſay</hi>
+               <note n="t" place="margin">Ang. de Temp. Ser. <hi>188.</hi>
+               </note> ſaith he <hi>if thou haſt received the Holy Ghoſt why then ſpeakeſt thou not as did the Apoſtles with diverſity of
+<pb n="87" facs="tcp:177161:51"/> tongues, thou mayſt anſwer him againe, yes, I ſpeak with diverſity of tongues, for I am in the body of Chriſt that is the Church, which ſpeaketh with ſuch diverſi<g ref="char:EOLunhyphen"/>tie:</hi> right ſo may we ſay in this caſe, no particular <hi>Church</hi> whatſoever but in regard this was ſpoken to our Savior Chriſt the head thereof, but hath the benefit of thoſe words, and may bee ſaid to haue hard the voice of God.</p>
+            <p>Nowe as wee haue <hi>God</hi> the <hi>father</hi> here, the firſt Perſon in <hi>Trinity,</hi> ſo haue we here <hi>God</hi> the <hi>ſonne to,</hi> even as he teſtified of himſelfe, <hi>where two or three</hi>
+               <note n="u" place="margin">Mat. 18.20.</note> ſaith he <hi>are gathered togither in my name, there am I in the midſt of the<g ref="char:cmbAbbrStroke">̄</g>.</hi> Not as he was in the midſt betweene the two theeues, giving influence to the one, and none at all to the other, <hi>Luke</hi> the three &amp; twe<g ref="char:cmbAbbrStroke">̄</g>tith at the three and fortith verſe, but as he was in the midſt of the<note n="c" place="margin">Luk. 2.46</note> 
+               <hi>Doctors,</hi> or in the midſt of the<note n="x" place="margin">Luk. 24.36.</note> 
+               <hi>eleaven Apoſtles,</hi> or if not ſo perſonally for he is nowe at the right hand of God, &amp; there ſetteth as ſpeak
+<pb n="88" facs="tcp:177161:52"/> the<note n="y" place="margin">Mark. 16.19.</note> Scriptures, yet as he was in the midſt of the <hi>candleſlickes Revelation</hi> the firſt at the thirteenth verſe.</p>
+            <p>Over and beſides the <hi>Sonne of God,</hi> we haue <hi>God the holy Ghoſt</hi> to, of who<g ref="char:cmbAbbrStroke">̄</g> our Saviour himſelfe ſaid, that hee ſhould abide with vs for ever, and is therfore called by <hi>Tertullian, The</hi>
+               <note n="z" place="margin">Tertull. de Vir. Veland.</note> 
+               <hi>Vi<g ref="char:EOLhyphen"/>car of Chriſt</hi> vpo<g ref="char:cmbAbbrStroke">̄</g> earth. True it is they had in their <hi>Temple</hi> this <hi>Trinity</hi> as well as we, the <hi>Father,</hi> and <hi>Sonne,</hi> and <hi>Holy Ghoſt,</hi> for they were but one God both then, &amp; now, &amp; ever; but come to the manner of their being there, &amp; being with vs in our <hi>Aſſemblies,</hi> and it was a ridle to the <hi>Iewes,</hi> we that haue plowed with<note n="a" place="margin">Iudg. 14.18.</note> 
+               <hi>Sampſons heyfer,</hi> that is, with the <hi>holy Scriptures,</hi> haue eaſily found it out. <hi>You ſhall heare Dichers &amp; Delvers</hi> ſaith<note n="b" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Theodor. ad Graec. Infid. Ser. <hi>5.</hi>
+               </note> 
+               <hi>Theodoret</hi> of the Chri<g ref="char:EOLhyphen"/>ſtians in his time, and he ſpake it not in skorne neither, <hi>reaſoning about the Trinity.</hi>
+            </p>
+            <p>Over and beſides the Holy <hi>Trini<g ref="char:EOLhyphen"/>ty,</hi> we haue the <hi>Angels</hi> to, here pre<g ref="char:EOLhyphen"/>ſent,
+<pb n="89" facs="tcp:177161:52"/> in regard of whom the Apoſtle in his Epiſtle to the<note n="c" place="margin">1. Cor. 11 10.</note> 
+               <hi>Corinthians, The woman ought to haue power on her head,</hi> that is, to haue her head covered, <hi>be<g ref="char:EOLhyphen"/>cauſe of the Angels.</hi> Nor are they pre<g ref="char:EOLhyphen"/>ſent only as Spectators, but they aſ<g ref="char:EOLhyphen"/>ſiſt vs after a ſort, I they ſolace them<g ref="char:EOLhyphen"/>ſelues in the beauty of this houſe ac<g ref="char:EOLhyphen"/>cording to that of S<hi rend="sup">t</hi>
+               <note n="d" place="margin">1. Pet. 1.12.</note> 
+               <hi>Peter, The which things the Angels deſire to behold:</hi> ſpea<g ref="char:EOLhyphen"/>king of the miſteries publiſhed in the Goſpell. The word<note n="e" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>Beza. in</hi> 1. <hi>Pet.</hi> 1.12.</note> 
+               <hi>Beholding</hi> there vſed, being the ſame that was vſed of himſelfe when he lookt ſo diligently into the<note n="f" place="margin">Luk. 24.12.</note> ſepulcher, and the Apoſtle alluding thereby as it is thought to the figure of the <hi>Cherubins</hi> that were ſo faſhioned by the hand of the work man, as if they had<note n="g" place="margin">Exod. 25.20.</note> looked into the Arke.</p>
+            <p>Concerning the other <hi>Parties</hi> that were preſent, namely the <hi>Prieſtes</hi> and <hi>People,</hi> how infinitly in each of them doe we <hi>Chriſtians</hi> out ſtrip the <hi>Iewes?</hi> Firſt concerning our <hi>Prieſts</hi> they are
+<pb n="90" facs="tcp:177161:53"/> not in deede ſo gorgeous in attire as they were, but being Miniſters of bet<g ref="char:EOLhyphen"/>ter things, how are they more beau<g ref="char:EOLhyphen"/>tifull notwithſtanding? <hi>How beautifull</hi>
+               <note n="h" place="margin">Rom. 10.15.</note> ſaith the Apoſtle <hi>are the feet of them wh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ch bring glad tidings of peace, and bring glad tidings of good things?</hi> And S<hi rend="sup">t</hi> 
+               <hi>Chryſoſtome,</hi> he compares the<g ref="char:cmbAbbrStroke">̄</g> in one<note n="i" place="margin">Chryſ. de Euchariſt. in E<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>n.</note> place to the <hi>Angels,</hi> in ano<g ref="char:EOLhyphen"/>ther<note n="k" place="margin">Chryſ. de S<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ced. l. <hi>3.</hi>
+               </note> place he prefers them farre be<g ref="char:EOLhyphen"/>fore the<g ref="char:cmbAbbrStroke">̄</g>. <hi>To them</hi> ſaith he <hi>that inhabit the earth and are converſant therein, is committed the diſpenſing of thoſe things which are in h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ave<g ref="char:cmbAbbrStroke">̄</g>. They haue that pow<g ref="char:EOLhyphen"/>er given vnto them which he neuer gaue to Angels, no not Archangels the<g ref="char:cmbAbbrStroke">̄</g>ſelues.</hi>
+            </p>
+            <p>Concerning the <hi>People,</hi> they indeed were a Natio<g ref="char:cmbAbbrStroke">̄</g>, but they were but one Nation, we the whole world. And therefore as our Saviour<note n="l" place="margin">Mark. 28.<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>9.</note> ſaid to his diſciples, <hi>Go and teach all Nations,</hi> ſo they went and taught them ſeverally;<note n="m" place="margin">See Eu<g ref="char:EOLhyphen"/>ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>b. l. <hi>3.</hi> c. <hi>1.</hi> &amp; Hieron. Catal. ſcript. Eccleſiaſt.</note> 
+               <hi>S. Iohn</hi> the <hi>Aſians, S. Andrew</hi> the <hi>A<g ref="char:EOLhyphen"/>chaians, S. Matthew</hi> the <hi>Ethiopians, S. Philip</hi> the <hi>Phrygians, S. Bartholmew</hi> the
+<pb n="91" facs="tcp:177161:53"/> 
+               <hi>Indians, S. Thomas</hi> the <hi>Parthians,</hi> and ſo forth, <hi>their ſou<g ref="char:cmbAbbrStroke">̄</g>d</hi>
+               <note n="n" place="margin">Rom. 10.18.</note> ſaith the Apoſtle <hi>went out through all the earth, and their words into the end of the world.</hi> Or if ſo be they went not to all places in their owne proper perſons, as <hi>S. Auſten</hi>
+               <note n="o" place="margin">Aug. ep. <hi>80</hi>
+               </note> ſeemes to be of opinion, yet hath e<g ref="char:EOLhyphen"/>very Nation now, or at the leaſt wiſe hath had the benefit of that doctrine which the Apoſtle delivered to thoſe nations that in their owne perſons they then viſited. We may well adde vnto this point that peculiar honour and teſtimoniall that is given vnto Chriſtians in that they are ſaide ſo<note n="p" place="margin">1. Cor. 3.16. 2 Cor. 6.16</note> many times to bee themſelues the <hi>Temple of God,</hi> I every of them in par<g ref="char:EOLhyphen"/>ticular in regard of their<note n="q" place="margin">1. Cor. 6.19.</note> 
+               <hi>bodies</hi> to be the <hi>Temple</hi> of the <hi>holy Ghoſt.</hi> But thus much of outſtripping them in regard of the <hi>Parties</hi> preſent: that we no leſſe outſtrip them to, in regard of the <hi>Pub<g ref="char:EOLunhyphen"/>like Solemnity</hi> of <hi>Gods</hi> worſhip, name<g ref="char:EOLunhyphen"/>ly in the <hi>Word,</hi> and <hi>Sacraments,</hi> and <hi>Sa<g ref="char:EOLhyphen"/>crifices, and Praier,</hi> and <hi>Praiſes,</hi> remai<g ref="char:EOLhyphen"/>neth
+<pb n="92" facs="tcp:177161:54"/> now to be declared, &amp; firſt con<g ref="char:EOLhyphen"/>cerning the <hi>Word.</hi>
+            </p>
+            <p>Firſt then concerning the <hi>Worde,</hi> they had <hi>Moſes</hi> I grant, and they had the <hi>Prophets. Moſes</hi> as ſpeakes <hi>Theodo<g ref="char:EOLhyphen"/>ret,</hi> who was <hi>the</hi>
+               <note n="r" place="margin">Theodoret. ad Graec. In<g ref="char:EOLhyphen"/>fid. ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r. <hi>2.</hi>
+               </note> 
+               <hi>Ocean of Diuinity,</hi> and inſtructed mouth to mouth as it were by God himſelfe; the <hi>Prophets,</hi> who were the <hi>floods</hi> and ſo many <hi>ri<g ref="char:EOLhyphen"/>uers</hi> as it were derived from him. <hi>Mo<g ref="char:EOLhyphen"/>ſes</hi> he delivered them the <hi>Law,</hi> the <hi>Pro<g ref="char:EOLunhyphen"/>phets</hi> they were the Interpreters of that Law. Both <hi>Moſes</hi> and <hi>Prophets</hi> ſo complete at that time for the ſalvatio<g ref="char:cmbAbbrStroke">̄</g> of the Iews, that that of <hi>Abraham</hi> vn<g ref="char:EOLhyphen"/>to <hi>Diues</hi> concerning the ſalvation of his Bretheren then living,<note n="ſ" place="margin">Luk. 16.29.</note> 
+               <hi>They haue Moſes and the Prophets let them heare them,</hi> was an argument that woulde not admit of any reply that <hi>Diues</hi> made. For when hee anſwered there<g ref="char:EOLhyphen"/>vpon,<note n="t" place="margin">v. 30.</note> 
+               <hi>Nay Father Abraham, but if one come vnto them from the dead, they will amend their liues,</hi> the Patriarch holds himſelfe to his firſt reſolutio<g ref="char:cmbAbbrStroke">̄</g>,<note n="u" place="margin">v. 31.</note> 
+               <hi>If they
+<pb n="93" facs="tcp:177161:54"/> heare not Moſes and the Prophets, nei<g ref="char:EOLhyphen"/>ther will they be perſwaded though one riſe from the dead againe.</hi> Now if they were then taught ſo wholy and per<g ref="char:EOLhyphen"/>fectly by <hi>Moſes</hi> &amp; the <hi>Prophets</hi> alone, howe much better is our caſe who haue the <hi>Apoſtles,</hi> and <hi>Evangeliſts</hi> an<g ref="char:EOLhyphen"/>nexed vnto them? <hi>Moſes</hi> and the <hi>Pro<g ref="char:EOLhyphen"/>phets</hi> indeede being <hi>a light</hi> as <hi>S. Peter</hi>
+               <note n="c" place="margin">2. Pet. 1.19.</note> ſpeaketh, that <hi>ſhineth in a darke place,</hi> but the <hi>Apoſtles,</hi> and <hi>Euangeliſts</hi> as the <hi>day ſtar ariſing in our hearts.</hi> And thus much of the <hi>Word.</hi>
+            </p>
+            <p>How far we outſtrip them in the <hi>Sacraments S.</hi>
+               <note n="d" place="margin">Aug epiſt. <hi>118.</hi> &amp; de Doct. Chriſt. l. <hi>3.</hi> c. <hi>9.</hi>
+               </note> 
+               <hi>Auſten</hi> wil bear vs wit<g ref="char:EOLhyphen"/>nes, who ſpeaking of theirs, and ours; <hi>we,</hi> ſaith he, <hi>are not preſſed with the hea<g ref="char:EOLhyphen"/>vy burden they were, but our Lord &amp; his Apoſtles haue delivered vnto vs a few Sa<g ref="char:EOLunhyphen"/>craments in ſteed of many, and the ſame in performing moſt eaſie, in ſignification moſt excellent, in obſeruation moſt reve<g ref="char:EOLhyphen"/>rend, and he</hi> nameth in that place <hi>Bap<g ref="char:EOLhyphen"/>tiſme</hi> and the <hi>Supper.</hi> True it is the A<g ref="char:EOLhyphen"/>poſtle<note n="e" place="margin">1. Cor. 10 1.</note> ſaith, <hi>they were all vnder the
+<pb n="94" facs="tcp:177161:55"/> clowd, and all paſsed through the ſea, and were baptiſed vnto Moſes in the clowd, and in the ſea;</hi> and againe,<note n="f" place="margin">v. 3.</note> 
+               <hi>they did all eate the ſame ſpirituall meate, and did all drinke the ſame ſpiritual drinke<g ref="char:punc">▪</g> for they dranke of the ſpiritual rocke that follow<g ref="char:EOLhyphen"/>ed them and the rocke was Chriſt,</hi> how<g ref="char:EOLhyphen"/>beit this which the Apoſtle ſaith is in regard of the ſubſta<g ref="char:cmbAbbrStroke">̄</g>ce &amp; effect of the Sacraments, the ſignification of our Sacraments is much more cleere the<g ref="char:cmbAbbrStroke">̄</g> theirs was.</p>
+            <p>In our <hi>Sacrifices</hi> we are farther be<g ref="char:EOLhyphen"/>fore the<g ref="char:cmbAbbrStroke">̄</g> then in our Sacraments, ha<g ref="char:EOLhyphen"/>ving had in our church the ſelfe ſame <hi>Sacrifice</hi> really acted, whereof al their <hi>Sacrifices</hi> were but ſhadowes. <hi>For if the blood of Buls,</hi>
+               <note n="g" place="margin">Heb. 9.13</note> ſaith the Apoſtle, <hi>and of Goates, and the aſhes of an Haifer ſprinckling them that are vncleane, ſan<g ref="char:EOLhyphen"/>ctifieth as touching the purifying of the fleſh: how much more ſhall the blood of Chriſt which through the eternall ſpirit offered himſelf without ſpot to God, purg your conſcience from dead works to ſerue
+<pb n="95" facs="tcp:177161:55"/> the living God?</hi> And againe a little af<g ref="char:EOLunhyphen"/>ter, <hi>The law,</hi>
+               <note n="h" place="margin">Heb. 10, 1</note> ſaith he, <hi>having the ſhad<g ref="char:EOLhyphen"/>dow of good things to come, and not the very image of the things, can neuer with thoſe Sacrifices which they offer yeare by yeare continually ſanctifie the commers therevnto.</hi>
+               <note n="i" place="margin">v. 4.</note> 
+               <hi>For it is impoſsible that the blood of Buls and Goats ſhould take away ſinnes.</hi> Now if ſo be we would know the vertue of our <hi>Sacrifice,</hi> though it were but one, their Sacrifices being many, <hi>with one offering,</hi>
+               <note n="k" place="margin">v. 14.</note> ſaith the A<g ref="char:EOLhyphen"/>poſtle, <hi>hath he conſecrated for ever the<g ref="char:cmbAbbrStroke">̄</g> that are ſanctified.</hi> And he had ſaid a little<note n="l" place="margin">Heb 9.27.</note> before <hi>As it is appointed vnto men that they ſhall once die &amp; after that commeth the iudgement, ſo Chriſt was once offered to take away the ſinnes of many.</hi> And comparing his Prieſthood with theirs, <hi>Among them,</hi>
+               <note n="m" place="margin">Heb 7.23</note> ſaith he, <hi>many were made Prieſts, becauſe they were not ſuffered to endure by the reaſon of death, but this man becauſe he endu<g ref="char:EOLhyphen"/>reth ever, hath an everlaſting Prieſt<g ref="char:EOLhyphen"/>hood.</hi> And againe a little after,<note n="n" place="margin">Heb. 7.2<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> 
+               <hi>Such
+<pb n="96" facs="tcp:177161:56"/> a High Prieſt it became vs to haue which is holy, harmeleſſe, vndefiled, ſeparate from ſinners, and made higher then the heavens, which needed not dayly as thoſe High Prieſts, to offer vp Sacrifice, firſt for his owne ſinnes, and then for the Peo<g ref="char:EOLhyphen"/>ples, for that did he once when he offered vp himſelfe.</hi> Comparing then thoſe Sacrifices with this of ours, I may ſay of them as did <hi>Theodoret</hi> of the like offered by the <hi>Gentiles, they were ſuch kind of Sacrifices as were fit for</hi>
+               <note n="o" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Theodoret. ad Graec. In<g ref="char:EOLhyphen"/>fidel. Ser. <hi>7.</hi>
+               </note> 
+               <hi>Huck<g ref="char:EOLhyphen"/>ſters and Butchers to make.</hi>
+            </p>
+            <p>Laſtly concerning <hi>Prayer,</hi> wherein I comprehend with the<note n="p" place="margin">Zanch. de Redemp. l. <hi>1.</hi> c. <hi>19.</hi>
+               </note> Learned not only the <hi>asking</hi> of things need<g ref="char:EOLhyphen"/>full for vs, and <hi>deprecation</hi> of things hurtfull, but the <hi>confeſsion</hi> of our ſins, the <hi>praiſes</hi> of God, and <hi>giving thanks</hi> for benefits receaved at his hands, how far we outſtrip the <hi>Iewes,</hi> witnes that of the <hi>Prophet Malachie,</hi> who co<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>paring both together theirs &amp; ours, <hi>From the riſing of the Sun,</hi>
+               <note n="q" place="margin">Malac. 1.11.</note> ſaith he, <hi>vnto the going downe of the ſame, my
+<pb n="97" facs="tcp:177161:56"/> name is great among the Gentiles, &amp; in every place Incenſe ſhall be offered vnto my name, &amp; a pure offering.</hi> Now what is this Incenſe but <hi>Prayers,</hi> for ſo the <hi>Holy Ghoſt</hi> himſelfe interprets Ince<g ref="char:cmbAbbrStroke">̄</g>ſe, <hi>Revelation</hi> the fift at the eight verſe. And that this <hi>Pure Offering</hi> is the ſame, witneſſe that of <hi>Tertullian</hi>
+               <note n="r" place="margin">Tertul. ad<g ref="char:EOLhyphen"/>verſ. Marci<g ref="char:EOLhyphen"/>an. l. <hi>4.</hi>
+               </note> 
+               <hi>a Pure Offering, that is, a Pure Prayer fro<g ref="char:cmbAbbrStroke">̄</g> a conſcience that is pure, for if ſo be,</hi> as ſpeakes the ſame Father in another<note n="ſ" place="margin">Tertul Ex<g ref="char:EOLhyphen"/>hort. ad Caſt.</note> place, <hi>the Conſcience bluſh, Prayer it ſelfe will bluſh too.</hi> I but you will ſay, ſince theſe our <hi>Prayers</hi> muſt needes taſt of the caske from whence they come, and the caske is very impure be it the <hi>Conſcience,</hi> or the <hi>Heart</hi> of man, how can they be the <hi>Pure Offe<g ref="char:EOLhyphen"/>ring</hi> here ſpoken of in this place? I an<g ref="char:EOLhyphen"/>ſwer according to Scripture that there is in heaven a certaine<note n="t" place="margin">Rev. 8.3.</note> 
+               <hi>Angel,</hi> it is indeed our <hi>Saviour Chriſt, that goes and ſtands before the Altar ha<g ref="char:EOLhyphen"/>ving a golden Cenſer and much odours given vnto him that he ſhould offer with
+<pb n="98" facs="tcp:177161:57"/> our prayers.</hi> Howſoever then as pro<g ref="char:EOLhyphen"/>ceeding from our ſelue, s they are tain<g ref="char:EOLunhyphen"/>ted and corrupt, yet are they ſweet<g ref="char:EOLhyphen"/>ned by bur Saviour, provided that they be <hi>infirmities</hi> only that taint the<g ref="char:cmbAbbrStroke">̄</g> not <hi>loud crying ſinnes,</hi> for if they once come to that paſſe, then farewell all approching and appearing in Gods ſight. <hi>When you ſhall ſtretch out your hands,</hi> I, ſaith the<note n="u" place="margin">Eſay, 1.15</note> Lord, <hi>will hide mine eyes from you, and though you make ma<g ref="char:EOLhyphen"/>ny prayers I will not heare:</hi> the reaſon he giues immediatly, <hi>for your hands are full of blood;</hi> and yet immediatly af<g ref="char:EOLhyphen"/>ter that too, as if he were loath to giue even ſuch an vtter repulſe, <hi>Waſh you,</hi>
+               <note n="c" place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. 16.</note> ſaith he, <hi>make you cleane, take a<g ref="char:EOLhyphen"/>way the Evill of your workes from before mine eies, ceaſe to doe evill, learne to doe well,</hi> and ſo forth, <hi>Come now and let vs reaſon together, ſaith the Lord, though your ſinnes were as crimſen they ſhall be made white as ſnowe, though they were red like ſcarlet they ſhall be as wooll.</hi> And to this end and purpoſe hath the
+<pb n="99" facs="tcp:177161:57"/> Church of God for this <hi>ſixteen hun<g ref="char:EOLhyphen"/>dred yeares</hi> and vpward beene in her ſeverall Congregations continually on her knees. <hi>We come by troups,</hi>
+               <note n="x" place="margin">Tertul. A<g ref="char:EOLhyphen"/>pol. l. <hi>1.</hi> c <hi>39.</hi>
+               </note> ſaith <hi>Tertullian, that being banded as it were together, we may be ſupplicants enow, not ſo much to beſeech, as to beſeige God with our prayers. This force to God is moſt acceptable. The ſound of men, wo<g ref="char:EOLhyphen"/>men, children, &amp; infants,</hi>
+               <note n="y" place="margin">Baſil Hex<g ref="char:EOLhyphen"/>am Hom. <hi>4.</hi>
+               </note> ſaith S<hi rend="sup">t</hi> 
+               <hi>Ba<g ref="char:EOLhyphen"/>ſil, praying in the Church together, ſeems like the ſound of the waues beating a<g ref="char:EOLhyphen"/>gainſt the ſea ſhore.</hi>
+               <note n="z" place="margin">Hieron. in <hi>2.</hi> Prooem. ad Gal.</note> S<hi rend="sup">t</hi> 
+               <hi>Ierom,</hi> he likens it to the <hi>noiſe of Thunder,</hi> and in ano<g ref="char:EOLhyphen"/>ther place diſcourſing of the Fune<g ref="char:EOLhyphen"/>rals of <hi>Fabiola, The Pſalmes,</hi>
+               <note n="a" place="margin">Hieron. ad Ocean. Epi<g ref="char:EOLhyphen"/>taph. Fabiol.</note> ſaith he, <hi>did ſound a loud, and the Haleluiah that was ſung did ſhake at that inſtant the golden ſeelings of the Temple with the noiſe it made.</hi>
+            </p>
+            <p>But of all the <hi>Beauties</hi> in our <hi>Church</hi> nothing ſo beautifull indeed as the <hi>Beauty</hi> of our <hi>Saviour. He was,</hi> ſaith<note n="b" place="margin">Aug in Pſ. <hi>44.</hi>
+               </note> S<hi rend="sup">t</hi> 
+               <hi>Auſten, a beautifull God, he was the word that was with God, he was
+<pb n="100" facs="tcp:177161:58"/> beautifull in his mothers wombe, where he loſt not his Divinity, and yet he tooke Humanity on him. He was beautifull be<g ref="char:EOLhyphen"/>ing borne an Infant, becauſe when he was an Infant, when as he ſuckt the dug, and was carried in his mothers armes, the heavens ſpake, the Angels praiſed him, the ſtarres directed the wiſe men to him, he was adored in the manger being to be meat convenient for the mouthes of gentle Beaſts.</hi> And this is that faire beautie which we celebrate this day. This day it was that hauing made for himſelfe a <hi>Tabernacle,</hi> as ſpeakes <hi>The<g ref="char:EOLhyphen"/>odoret, in the wombe of the Virgin, he iſ<g ref="char:EOLhyphen"/>ſued forth from thence both</hi>
+               <note n="c" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. The<g ref="char:EOLhyphen"/>odoret. de Grac. Affect. Ser. <hi>6.</hi>
+               </note> 
+               <hi>a viſible man, and a God to be adored. Borne of the ſubſtance of the Father before all worlds, but aſſuming that of the Virgin Mary which did appeare to the world. Borne,</hi> ſaith the ſame Father, <hi>as it were this day, and yet from all eternity. Borne of his Father,</hi>
+               <note n="d" place="margin">Aug de Temp. Ser. <hi>12</hi>
+               </note> ſaith S<hi rend="sup">t</hi> 
+               <hi>Auſten, without a mother he created every day, borne of his mother without a Father he hath co<g ref="char:cmbAbbrStroke">̄</g>ſecra<g ref="char:EOLhyphen"/>ted
+<pb n="101" facs="tcp:177161:58"/> this day, ſo that whereas,</hi> ſaith he, <hi>in the worlds beginning man was made to the likeneſſe of God, the caſe is altered now at this time, for this day God is made to the likeneſſe of man. Nor let it ſeeme incre<g ref="char:EOLhyphen"/>dible,</hi> ſaith the ſame<note n="e" place="margin">Auguſt. de Temp. Ser. <hi>181.</hi>
+               </note> Father, <hi>that he ſhould be borne of a Virgin, who out of the Virgin earth made the firſt man that ever was.</hi>
+            </p>
+            <p>Theſe the <hi>Beauties</hi> of our Church, and of every our ſeverall Congrega<g ref="char:EOLhyphen"/>tions, what remaineth but our deſires in reſpect of them be ſuch as was the Prophets concerning the <hi>Temple,</hi> namely to beholde there theſe faire beauties, and to viſit theſe places, that if ſo be that Beauty were ſo power<g ref="char:EOLhyphen"/>full with the Prophet which was ſo farre inferiour vnto ours, ours with vs ſhoulde be more powerfull as be<g ref="char:EOLhyphen"/>ing farre more beautifull and ſo farre ſuperiour vnto theirs. Let it raviſh then our <hi>Soules</hi> by way of <hi>Contempla<g ref="char:EOLhyphen"/>tion,</hi> and like a load ſtone draw our <hi>Bodies</hi> to by way of <hi>Action</hi> to theſe
+<pb n="102" facs="tcp:177161:59"/> places, and let vs ioine here <hi>Body</hi> and <hi>Soule</hi> by <hi>Contemplation</hi> and <hi>Action</hi> both Let vs not take as Gods name, ſo not his beauty in vaine, if ſo be <hi>the Lord wil not hold him guiltles that takes his</hi>
+               <note n="f" place="margin">Exod. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>0.7.</note> 
+               <hi>name in vaine,</hi> how will he iudge thoſe another day that ſo much con<g ref="char:EOLhyphen"/>temne this his <hi>Beauty?</hi>
+            </p>
+            <p>And to the better effecting hereof let vs come often to this Houſe, and as the word vſed here is a frequenta<g ref="char:EOLhyphen"/>tiue, ſo let our deedes be frequent to. To come <hi>not at all</hi> with the Popiſh Recuſant, or but <hi>monthly</hi> with the falſe harted Proteſtant, or in the <hi>fore<g ref="char:EOLhyphen"/>noone or afternoone only</hi> with the halfe Chriſtian, or when Service is <hi>halfe done</hi> with the careleſſe Goſpeller, or when there is <hi>a Sermon only</hi> with the Preciſian, are vices all of a quality, though not al of the ſelfe ſame quan<g ref="char:EOLhyphen"/>tity, all able to drowne vs though not all after one ſort. The <hi>Preciſian</hi> hee is drowned as it were in roſe water, <hi>Moſes</hi> and the <hi>Prophets</hi> are nothing
+<pb n="103" facs="tcp:177161:59"/> with him here, vnleſſe forſooth they be interpreted: The <hi>careleſſe Goſpeller</hi> in a bole of water, a little ſerues his turne: The <hi>halfe Chriſtian</hi> in mud &amp; water: The <hi>falſe harted Proteſtant</hi> in a river of water, but the <hi>Recuſant</hi> hee that wil never be here, and that vtter<g ref="char:EOLhyphen"/>ly ſhunneth theſe Aſſemblies, he is drowned in a ſea of water, drowned in deed as are the reſt, but the manner of his drowning more dreadfull, ſo much the farther from all hope as he will needs be far theſt from all helpe. If now you demand of me how often you ſhould come hither. I anſwere e<g ref="char:EOLhyphen"/>ven as often as this <hi>Beauty</hi> here is to be ſeene in the <hi>Publike Service</hi> of our God. Whether on the <hi>Saboth day,</hi> or on<note n="g" place="margin">Noſtri dies feſti in <hi>4<hi rend="sup">o</hi>
+                  </hi> praecepto no<g ref="char:EOLhyphen"/>mine Sabba<g ref="char:EOLhyphen"/>thi compre<g ref="char:EOLhyphen"/>henſi. Zanch. de Redemp. l. <hi>1</hi> c. <hi>9.</hi>
+               </note> 
+               <hi>Holy daies,</hi> or even on the <hi>weeke daies</hi> to, ſpecially Maſters &amp; Miſtreſ<g ref="char:EOLhyphen"/>ſes of families, vnleſſe as<note n="h" place="margin">Zanch. Ib. qu. <hi>2.</hi>
+               </note> 
+               <hi>Za<g ref="char:cmbAbbrStroke">̄</g>chius</hi> wel ſtates the queſtion, <hi>our ſicknes is ſuch as that we cannot come, or our affaires of ſuch importance that we may not defer them till an other time.</hi> He that at eve<g ref="char:EOLhyphen"/>ry
+<pb n="104" facs="tcp:177161:60"/> time elſe comes when ever oppor<g ref="char:EOLunhyphen"/>tunitie is offered, it is a ſigne he is en<g ref="char:EOLhyphen"/>amored with this <hi>Beauty</hi> of the Lord, and he that with this <hi>Beauty</hi> is ſo ena<g ref="char:EOLhyphen"/>moured in this world, ſhall an other day behold his fairer <hi>Beauty,</hi> and viſit his other <hi>Te<g ref="char:cmbAbbrStroke">̄</g>ple</hi> in the world to come. Of which <hi>Beauty,</hi> &amp; which <hi>Temple</hi> to ſpeake in S. <hi>Auſtens</hi>
+               <note n="i" place="margin">Auguſt. de Tripl. Habi<g ref="char:EOLhyphen"/>tac. c <hi>4.</hi>
+               </note> phraſe, <hi>whatſoe<g ref="char:EOLhyphen"/>ver a man ſhall ſay it is as it were but a drop in compariſon of the Sea, &amp; a ſparke in reſpect of a fire. For how,</hi> ſaith the ſame<note n="k" place="margin">Aug. in Pſ. <hi>85.</hi>
+               </note> Father, <hi>ſhould it poſsibly come in<g ref="char:EOLhyphen"/>to the tongue of man, that could never come as yet into the hart of man.</hi> It be<g ref="char:EOLhyphen"/>ing an invincible truth which the A<g ref="char:EOLhyphen"/>poſtle<note n="l" place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Cor. 2.9</note> S. <hi>Paule</hi> delivereth, <hi>The things which eie hath not ſeene, neither eare hath hard, neither came into mans hart, are, which God hath prepared for them that loue him.</hi>
+            </p>
+            <p>The ſame <hi>God</hi> ſo bleſſe vs and the ſeede that hath beene ſowne, &amp;c.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:177161:60"/>
+         </div>
+      </body>
+   </text>
+</TEI>
